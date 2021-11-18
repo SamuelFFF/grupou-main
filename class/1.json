@@ -1,0 +1,1304 @@
+{
+  "alunos": [
+    {
+      "nome_completo": "Jordan Prieto",
+      "hardskills": {
+        "API": {
+          "nota": 50.67,
+          "diferenca_absoluta_media": 7.545957446808501,
+          "gap": 0.4312238197667837
+        },
+        "REST": {
+          "nota": 98.2,
+          "diferenca_absoluta_media": 61.157234042553206,
+          "gap": 0
+        },
+        "Firebase": {
+          "nota": 5.75,
+          "diferenca_absoluta_media": -3.3900000000000006,
+          "gap": 0.7015625
+        }
+      },
+      "softskills": [
+        "Flexibidade",
+        "Negociação",
+        "Disciplina",
+        "Comunicação Eficaz",
+        "Trabalhar sob pressão"
+      ]
+    },
+    {
+      "nome_completo": "Calvin Miles",
+      "hardskills": {
+        "API": {
+          "nota": 19.57,
+          "diferenca_absoluta_media": -23.5540425531915,
+          "gap": 0.7833125778331258
+        },
+        "REST": {
+          "nota": 62.76,
+          "diferenca_absoluta_media": 25.7172340425532,
+          "gap": 0.3868995633187773
+        },
+        "Firebase": {
+          "nota": 13.25,
+          "diferenca_absoluta_media": 4.109999999999999,
+          "gap": 0.3109375
+        }
+      },
+      "softskills": [
+        "Foco",
+        "Proatividade",
+        "Equilíbrio Emocional",
+        "Auto-Controle",
+        "Trabalhar orientado para Resultados"
+      ]
+    },
+    {
+      "nome_completo": "Fred Mancini",
+      "hardskills": {
+        "API": {
+          "nota": 4.14,
+          "diferenca_absoluta_media": -38.9840425531915,
+          "gap": 0.9579984150345296
+        },
+        "REST": {
+          "nota": 13.1,
+          "diferenca_absoluta_media": -23.942765957446795,
+          "gap": 0.9290393013100436
+        },
+        "Firebase": {
+          "nota": 2.31,
+          "diferenca_absoluta_media": -6.83,
+          "gap": 0.8807291666666667
+        }
+      },
+      "softskills": [
+        "Foco",
+        "Comunicação Eficaz",
+        "Gestão de Tempo",
+        "Liderança de Equipe",
+        "Flexibidade"
+      ]
+    },
+    {
+      "nome_completo": "Gary Jennings",
+      "hardskills": {
+        "API": {
+          "nota": 50.67,
+          "diferenca_absoluta_media": 7.545957446808501,
+          "gap": 0.4312238197667837
+        },
+        "REST": {
+          "nota": 61.95,
+          "diferenca_absoluta_media": 24.907234042553206,
+          "gap": 0.3957423580786026
+        },
+        "Firebase": {
+          "nota": 1.33,
+          "diferenca_absoluta_media": -7.8100000000000005,
+          "gap": 0.9317708333333334
+        }
+      },
+      "softskills": [
+        "Auto-Controle",
+        "Negociação",
+        "Proatividade",
+        "Foco",
+        "Equilíbrio Emocional"
+      ]
+    },
+    {
+      "nome_completo": "Ann Groß",
+      "hardskills": {
+        "API": {
+          "nota": 57.8,
+          "diferenca_absoluta_media": 14.675957446808496,
+          "gap": 0.3505037925959471
+        },
+        "REST": {
+          "nota": 6.6,
+          "diferenca_absoluta_media": -30.442765957446795,
+          "gap": 1
+        },
+        "Firebase": {
+          "nota": 12.65,
+          "diferenca_absoluta_media": 3.51,
+          "gap": 0.3421874999999999
+        }
+      },
+      "softskills": [
+        "Resolução de Problemas",
+        "Proatividade",
+        "Gestão de Tempo",
+        "Equilíbrio Emocional",
+        "Trabalhar orientado para Resultados"
+      ]
+    },
+    {
+      "nome_completo": "Ricardo Vannoni",
+      "hardskills": {
+        "API": {
+          "nota": 33.59,
+          "diferenca_absoluta_media": -9.534042553191497,
+          "gap": 0.624589607154987
+        },
+        "REST": {
+          "nota": 20.32,
+          "diferenca_absoluta_media": -16.722765957446796,
+          "gap": 0.8502183406113536
+        },
+        "Firebase": {
+          "nota": 14.08,
+          "diferenca_absoluta_media": 4.9399999999999995,
+          "gap": 0.26770833333333327
+        }
+      },
+      "softskills": [
+        "Produtividade",
+        "Proatividade",
+        "Auto-Controle",
+        "Comunicação Eficaz",
+        "Trabalhar orientado para Resultados"
+      ]
+    },
+    {
+      "nome_completo": "Luella Ndiaye",
+      "hardskills": {
+        "API": {
+          "nota": 25.52,
+          "diferenca_absoluta_media": -17.6040425531915,
+          "gap": 0.7159515453413338
+        },
+        "REST": {
+          "nota": 89.15,
+          "diferenca_absoluta_media": 52.10723404255321,
+          "gap": 0.09879912663755455
+        },
+        "Firebase": {
+          "nota": 8.63,
+          "diferenca_absoluta_media": -0.5099999999999998,
+          "gap": 0.5515625
+        }
+      },
+      "softskills": [
+        "Negociação",
+        "Flexibidade",
+        "Resolução de Problemas",
+        "Proatividade",
+        "Trabalhar orientado para Resultados"
+      ]
+    },
+    {
+      "nome_completo": "Roxie Morgan",
+      "hardskills": {
+        "API": {
+          "nota": 3.46,
+          "diferenca_absoluta_media": -39.6640425531915,
+          "gap": 0.9656968187478774
+        },
+        "REST": {
+          "nota": 84.75,
+          "diferenca_absoluta_media": 47.7072340425532,
+          "gap": 0.1468340611353712
+        },
+        "Firebase": {
+          "nota": 10.55,
+          "diferenca_absoluta_media": 1.4100000000000001,
+          "gap": 0.4515624999999999
+        }
+      },
+      "softskills": [
+        "Gestão de Conflitos",
+        "Criatividade",
+        "Proatividade",
+        "Disciplina",
+        "Foco"
+      ]
+    },
+    {
+      "nome_completo": "Ivan van der Molen",
+      "hardskills": {
+        "API": {
+          "nota": 84.85,
+          "diferenca_absoluta_media": 41.72595744680849,
+          "gap": 0.044265821351749245
+        },
+        "REST": {
+          "nota": 31.07,
+          "diferenca_absoluta_media": -5.972765957446796,
+          "gap": 0.7328602620087336
+        },
+        "Firebase": {
+          "nota": 15.9,
+          "diferenca_absoluta_media": 6.76,
+          "gap": 0.1729166666666666
+        }
+      },
+      "softskills": [
+        "Gestão de Tempo",
+        "Produtividade",
+        "Trabalhar sob pressão",
+        "Foco",
+        "Gestão de Conflitos"
+      ]
+    },
+    {
+      "nome_completo": "Dora Mori",
+      "hardskills": {
+        "API": {
+          "nota": 52.98,
+          "diferenca_absoluta_media": 9.855957446808496,
+          "gap": 0.40507188950526446
+        },
+        "REST": {
+          "nota": 29.8,
+          "diferenca_absoluta_media": -7.242765957446796,
+          "gap": 0.7467248908296943
+        },
+        "Firebase": {
+          "nota": 6.8,
+          "diferenca_absoluta_media": -2.3400000000000007,
+          "gap": 0.646875
+        }
+      },
+      "softskills": [
+        "Flexibidade",
+        "Equilíbrio Emocional",
+        "Disciplina",
+        "Negociação",
+        "Trabalhar orientado para Resultados"
+      ]
+    },
+    {
+      "nome_completo": "Gavin Santos",
+      "hardskills": {
+        "API": {
+          "nota": 38.28,
+          "diferenca_absoluta_media": -4.8440425531915,
+          "gap": 0.5714932638967509
+        },
+        "REST": {
+          "nota": 15.19,
+          "diferenca_absoluta_media": -21.8527659574468,
+          "gap": 0.9062227074235808
+        },
+        "Firebase": {
+          "nota": 3.51,
+          "diferenca_absoluta_media": -5.630000000000001,
+          "gap": 0.8182291666666667
+        }
+      },
+      "softskills": [
+        "Proatividade",
+        "Flexibidade",
+        "Foco",
+        "Negociação",
+        "Auto-Controle"
+      ]
+    },
+    {
+      "nome_completo": "Virginia Ingram",
+      "hardskills": {
+        "API": {
+          "nota": 46.86,
+          "diferenca_absoluta_media": 3.7359574468084986,
+          "gap": 0.47435752292539346
+        },
+        "REST": {
+          "nota": 45.41,
+          "diferenca_absoluta_media": 8.3672340425532,
+          "gap": 0.5763100436681223
+        },
+        "Firebase": {
+          "nota": 0.9,
+          "diferenca_absoluta_media": -8.24,
+          "gap": 0.9541666666666667
+        }
+      },
+      "softskills": [
+        "Flexibidade",
+        "Criatividade",
+        "Gestão de Conflitos",
+        "Trabalhar sob pressão",
+        "Negociação"
+      ]
+    },
+    {
+      "nome_completo": "Minerva Sorelli",
+      "hardskills": {
+        "API": {
+          "nota": 88.76,
+          "diferenca_absoluta_media": 45.635957446808504,
+          "gap": 0
+        },
+        "REST": {
+          "nota": 19.71,
+          "diferenca_absoluta_media": -17.332765957446796,
+          "gap": 0.8568777292576419
+        },
+        "Firebase": {
+          "nota": 0.23,
+          "diferenca_absoluta_media": -8.91,
+          "gap": 0.9890625
+        }
+      },
+      "softskills": [
+        "Trabalhar sob pressão",
+        "Liderança de Equipe",
+        "Proatividade",
+        "Comunicação Eficaz",
+        "Gestão de Conflitos"
+      ]
+    },
+    {
+      "nome_completo": "Estelle Perret",
+      "hardskills": {
+        "API": {
+          "nota": 10.91,
+          "diferenca_absoluta_media": -32.214042553191504,
+          "gap": 0.8813540133589948
+        },
+        "REST": {
+          "nota": 10.95,
+          "diferenca_absoluta_media": -26.092765957446797,
+          "gap": 0.9525109170305676
+        },
+        "Firebase": {
+          "nota": 11.77,
+          "diferenca_absoluta_media": 2.629999999999999,
+          "gap": 0.3880208333333333
+        }
+      },
+      "softskills": [
+        "Criatividade",
+        "Proatividade",
+        "Trabalhar orientado para Resultados",
+        "Equilíbrio Emocional",
+        "Resolução de Problemas"
+      ]
+    },
+    {
+      "nome_completo": "Hunter Pruneti",
+      "hardskills": {
+        "API": {
+          "nota": 56.72,
+          "diferenca_absoluta_media": 13.595957446808498,
+          "gap": 0.3627306690818522
+        },
+        "REST": {
+          "nota": 48.79,
+          "diferenca_absoluta_media": 11.747234042553202,
+          "gap": 0.539410480349345
+        },
+        "Firebase": {
+          "nota": 10.48,
+          "diferenca_absoluta_media": 1.3399999999999999,
+          "gap": 0.45520833333333327
+        }
+      },
+      "softskills": [
+        "Flexibidade",
+        "Negociação",
+        "Equilíbrio Emocional",
+        "Proatividade",
+        "Gestão de Tempo"
+      ]
+    },
+    {
+      "nome_completo": "Nicholas Manning",
+      "hardskills": {
+        "API": {
+          "nota": 55.92,
+          "diferenca_absoluta_media": 12.795957446808501,
+          "gap": 0.3717876146269671
+        },
+        "REST": {
+          "nota": 28.4,
+          "diferenca_absoluta_media": -8.642765957446798,
+          "gap": 0.7620087336244542
+        },
+        "Firebase": {
+          "nota": 15.02,
+          "diferenca_absoluta_media": 5.879999999999999,
+          "gap": 0.21874999999999997
+        }
+      },
+      "softskills": [
+        "Comunicação Eficaz",
+        "Resolução de Problemas",
+        "Disciplina",
+        "Trabalhar orientado para Resultados",
+        "Negociação"
+      ]
+    },
+    {
+      "nome_completo": "Mason Nicolas",
+      "hardskills": {
+        "API": {
+          "nota": 65.85,
+          "diferenca_absoluta_media": 22.725957446808494,
+          "gap": 0.2593682780482284
+        },
+        "REST": {
+          "nota": 30.31,
+          "diferenca_absoluta_media": -6.732765957446798,
+          "gap": 0.7411572052401746
+        },
+        "Firebase": {
+          "nota": 14.14,
+          "diferenca_absoluta_media": 5,
+          "gap": 0.2645833333333333
+        }
+      },
+      "softskills": [
+        "Produtividade",
+        "Disciplina",
+        "Colaboração",
+        "Criatividade",
+        "Resolução de Problemas"
+      ]
+    },
+    {
+      "nome_completo": "Wayne Franci",
+      "hardskills": {
+        "API": {
+          "nota": 0.43,
+          "diferenca_absoluta_media": -42.6940425531915,
+          "gap": 1
+        },
+        "REST": {
+          "nota": 48.81,
+          "diferenca_absoluta_media": 11.767234042553206,
+          "gap": 0.5391921397379912
+        },
+        "Firebase": {
+          "nota": 16.74,
+          "diferenca_absoluta_media": 7.599999999999998,
+          "gap": 0.1291666666666667
+        }
+      },
+      "softskills": [
+        "Disciplina",
+        "Trabalhar orientado para Resultados",
+        "Auto-Controle",
+        "Negociação",
+        "Liderança de Equipe"
+      ]
+    },
+    {
+      "nome_completo": "Frederick Gentile",
+      "hardskills": {
+        "API": {
+          "nota": 3.41,
+          "diferenca_absoluta_media": -39.714042553191504,
+          "gap": 0.9662628778444471
+        },
+        "REST": {
+          "nota": 27.71,
+          "diferenca_absoluta_media": -9.332765957446796,
+          "gap": 0.7695414847161572
+        },
+        "Firebase": {
+          "nota": 9.79,
+          "diferenca_absoluta_media": 0.6499999999999986,
+          "gap": 0.49114583333333334
+        }
+      },
+      "softskills": [
+        "Foco",
+        "Resolução de Problemas",
+        "Flexibidade",
+        "Produtividade",
+        "Trabalhar sob pressão"
+      ]
+    },
+    {
+      "nome_completo": "Vincent Baron",
+      "hardskills": {
+        "API": {
+          "nota": 30.79,
+          "diferenca_absoluta_media": -12.334042553191502,
+          "gap": 0.6562889165628892
+        },
+        "REST": {
+          "nota": 31.24,
+          "diferenca_absoluta_media": -5.802765957446798,
+          "gap": 0.7310043668122271
+        },
+        "Firebase": {
+          "nota": 19.22,
+          "diferenca_absoluta_media": 10.079999999999998,
+          "gap": 0
+        }
+      },
+      "softskills": [
+        "Equilíbrio Emocional",
+        "Colaboração",
+        "Gestão de Tempo",
+        "Auto-Controle",
+        "Gestão de Conflitos"
+      ]
+    },
+    {
+      "nome_completo": "Dominic Perrier",
+      "hardskills": {
+        "API": {
+          "nota": 19.37,
+          "diferenca_absoluta_media": -23.7540425531915,
+          "gap": 0.7855768142194045
+        },
+        "REST": {
+          "nota": 21,
+          "diferenca_absoluta_media": -16.042765957446797,
+          "gap": 0.8427947598253275
+        },
+        "Firebase": {
+          "nota": 10.25,
+          "diferenca_absoluta_media": 1.1099999999999994,
+          "gap": 0.4671875
+        }
+      },
+      "softskills": [
+        "Proatividade",
+        "Trabalhar orientado para Resultados",
+        "Produtividade",
+        "Auto-Controle",
+        "Negociação"
+      ]
+    },
+    {
+      "nome_completo": "Christine Boyle",
+      "hardskills": {
+        "API": {
+          "nota": 24.46,
+          "diferenca_absoluta_media": -18.6640425531915,
+          "gap": 0.727951998188611
+        },
+        "REST": {
+          "nota": 46.13,
+          "diferenca_absoluta_media": 9.087234042553206,
+          "gap": 0.5684497816593886
+        },
+        "Firebase": {
+          "nota": 11.92,
+          "diferenca_absoluta_media": 2.7799999999999994,
+          "gap": 0.3802083333333333
+        }
+      },
+      "softskills": [
+        "Auto-Controle",
+        "Criatividade",
+        "Liderança de Equipe",
+        "Trabalhar sob pressão",
+        "Gestão de Conflitos"
+      ]
+    },
+    {
+      "nome_completo": "Katherine Fuller",
+      "hardskills": {
+        "API": {
+          "nota": 69.9,
+          "diferenca_absoluta_media": 26.775957446808505,
+          "gap": 0.213517491226084
+        },
+        "REST": {
+          "nota": 34.66,
+          "diferenca_absoluta_media": -2.3827659574468,
+          "gap": 0.6936681222707424
+        },
+        "Firebase": {
+          "nota": 10.93,
+          "diferenca_absoluta_media": 1.7899999999999991,
+          "gap": 0.4317708333333333
+        }
+      },
+      "softskills": [
+        "Equilíbrio Emocional",
+        "Produtividade",
+        "Criatividade",
+        "Auto-Controle",
+        "Foco"
+      ]
+    },
+    {
+      "nome_completo": "Jeremiah Burton",
+      "hardskills": {
+        "API": {
+          "nota": 27.3,
+          "diferenca_absoluta_media": -15.8240425531915,
+          "gap": 0.6957998415034531
+        },
+        "REST": {
+          "nota": 21.78,
+          "diferenca_absoluta_media": -15.262765957446796,
+          "gap": 0.8342794759825327
+        },
+        "Firebase": {
+          "nota": 8.39,
+          "diferenca_absoluta_media": -0.75,
+          "gap": 0.5640624999999999
+        }
+      },
+      "softskills": [
+        "Colaboração",
+        "Proatividade",
+        "Disciplina",
+        "Motivação",
+        "Foco"
+      ]
+    },
+    {
+      "nome_completo": "Connor Borselli",
+      "hardskills": {
+        "API": {
+          "nota": 82.86,
+          "diferenca_absoluta_media": 39.7359574468085,
+          "gap": 0.06679497339522253
+        },
+        "REST": {
+          "nota": 42.98,
+          "diferenca_absoluta_media": 5.9372340425532,
+          "gap": 0.6028384279475982
+        },
+        "Firebase": {
+          "nota": 19.22,
+          "diferenca_absoluta_media": 10.079999999999998,
+          "gap": 0
+        }
+      },
+      "softskills": [
+        "Flexibidade",
+        "Colaboração",
+        "Criatividade",
+        "Resolução de Problemas",
+        "Liderança de Equipe"
+      ]
+    },
+    {
+      "nome_completo": "Gene Pollard",
+      "hardskills": {
+        "API": {
+          "nota": 52.41,
+          "diferenca_absoluta_media": 9.285957446808496,
+          "gap": 0.41152496320615883
+        },
+        "REST": {
+          "nota": 28.39,
+          "diferenca_absoluta_media": -8.652765957446796,
+          "gap": 0.762117903930131
+        },
+        "Firebase": {
+          "nota": 4.52,
+          "diferenca_absoluta_media": -4.620000000000001,
+          "gap": 0.765625
+        }
+      },
+      "softskills": [
+        "Gestão de Tempo",
+        "Negociação",
+        "Flexibidade",
+        "Produtividade",
+        "Disciplina"
+      ]
+    },
+    {
+      "nome_completo": "Tillie Watkins",
+      "hardskills": {
+        "API": {
+          "nota": 72.65,
+          "diferenca_absoluta_media": 29.525957446808505,
+          "gap": 0.1823842409147515
+        },
+        "REST": {
+          "nota": 37.91,
+          "diferenca_absoluta_media": 0.8672340425531999,
+          "gap": 0.6581877729257642
+        },
+        "Firebase": {
+          "nota": 10.12,
+          "diferenca_absoluta_media": 0.9799999999999986,
+          "gap": 0.4739583333333333
+        }
+      },
+      "softskills": [
+        "Gestão de Conflitos",
+        "Liderança de Equipe",
+        "Colaboração",
+        "Foco",
+        "Criatividade"
+      ]
+    },
+    {
+      "nome_completo": "Helen Parsons",
+      "hardskills": {
+        "API": {
+          "nota": 25.87,
+          "diferenca_absoluta_media": -17.2540425531915,
+          "gap": 0.7119891316653458
+        },
+        "REST": {
+          "nota": 41.36,
+          "diferenca_absoluta_media": 4.317234042553203,
+          "gap": 0.6205240174672488
+        },
+        "Firebase": {
+          "nota": 8.31,
+          "diferenca_absoluta_media": -0.8300000000000001,
+          "gap": 0.5682291666666666
+        }
+      },
+      "softskills": [
+        "Disciplina",
+        "Proatividade",
+        "Motivação",
+        "Criatividade",
+        "Resolução de Problemas"
+      ]
+    },
+    {
+      "nome_completo": "Mamie Reed",
+      "hardskills": {
+        "API": {
+          "nota": 3.44,
+          "diferenca_absoluta_media": -39.6840425531915,
+          "gap": 0.9659232423865053
+        },
+        "REST": {
+          "nota": 28.21,
+          "diferenca_absoluta_media": -8.832765957446796,
+          "gap": 0.7640829694323145
+        },
+        "Firebase": {
+          "nota": 0.02,
+          "diferenca_absoluta_media": -9.120000000000001,
+          "gap": 1
+        }
+      },
+      "softskills": [
+        "Negociação",
+        "Trabalhar sob pressão",
+        "Equilíbrio Emocional",
+        "Colaboração",
+        "Gestão de Tempo"
+      ]
+    },
+    {
+      "nome_completo": "Cecilia Jimenez",
+      "hardskills": {
+        "API": {
+          "nota": 41.84,
+          "diferenca_absoluta_media": -1.2840425531914974,
+          "gap": 0.5311898562209895
+        },
+        "REST": {
+          "nota": 29.73,
+          "diferenca_absoluta_media": -7.312765957446796,
+          "gap": 0.7474890829694323
+        },
+        "Firebase": {
+          "nota": 6.55,
+          "diferenca_absoluta_media": -2.5900000000000007,
+          "gap": 0.6598958333333332
+        }
+      },
+      "softskills": [
+        "Motivação",
+        "Proatividade",
+        "Foco",
+        "Equilíbrio Emocional",
+        "Trabalhar orientado para Resultados"
+      ]
+    },
+    {
+      "nome_completo": "Eula Spencer",
+      "hardskills": {
+        "API": {
+          "nota": 84.12,
+          "diferenca_absoluta_media": 40.995957446808504,
+          "gap": 0.05253028416166648
+        },
+        "REST": {
+          "nota": 45.86,
+          "diferenca_absoluta_media": 8.817234042553203,
+          "gap": 0.5713973799126637
+        },
+        "Firebase": {
+          "nota": 17.11,
+          "diferenca_absoluta_media": 7.969999999999999,
+          "gap": 0.1098958333333333
+        }
+      },
+      "softskills": [
+        "Produtividade",
+        "Auto-Controle",
+        "Colaboração",
+        "Foco",
+        "Gestão de Tempo"
+      ]
+    },
+    {
+      "nome_completo": "Rachel Connor",
+      "hardskills": {
+        "API": {
+          "nota": 3.38,
+          "diferenca_absoluta_media": -39.7440425531915,
+          "gap": 0.9666025133023889
+        },
+        "REST": {
+          "nota": 20.51,
+          "diferenca_absoluta_media": -16.532765957446795,
+          "gap": 0.8481441048034933
+        },
+        "Firebase": {
+          "nota": 9.74,
+          "diferenca_absoluta_media": 0.5999999999999996,
+          "gap": 0.49374999999999997
+        }
+      },
+      "softskills": [
+        "Comunicação Eficaz",
+        "Auto-Controle",
+        "Criatividade",
+        "Produtividade",
+        "Trabalhar orientado para Resultados"
+      ]
+    },
+    {
+      "nome_completo": "Kyle Drake",
+      "hardskills": {
+        "API": {
+          "nota": 40.59,
+          "diferenca_absoluta_media": -2.5340425531914974,
+          "gap": 0.5453413336352315
+        },
+        "REST": {
+          "nota": 44.57,
+          "diferenca_absoluta_media": 7.527234042553204,
+          "gap": 0.5854803493449782
+        },
+        "Firebase": {
+          "nota": 14.83,
+          "diferenca_absoluta_media": 5.6899999999999995,
+          "gap": 0.22864583333333327
+        }
+      },
+      "softskills": [
+        "Produtividade",
+        "Disciplina",
+        "Auto-Controle",
+        "Colaboração",
+        "Equilíbrio Emocional"
+      ]
+    },
+    {
+      "nome_completo": "Miguel Pena",
+      "hardskills": {
+        "API": {
+          "nota": 83.78,
+          "diferenca_absoluta_media": 40.6559574468085,
+          "gap": 0.05637948601834036
+        },
+        "REST": {
+          "nota": 38.35,
+          "diferenca_absoluta_media": 1.3072340425532047,
+          "gap": 0.6533842794759824
+        },
+        "Firebase": {
+          "nota": 1.64,
+          "diferenca_absoluta_media": -7.500000000000001,
+          "gap": 0.9156249999999999
+        }
+      },
+      "softskills": [
+        "Criatividade",
+        "Resolução de Problemas",
+        "Gestão de Tempo",
+        "Motivação",
+        "Gestão de Conflitos"
+      ]
+    },
+    {
+      "nome_completo": "Tony Horton",
+      "hardskills": {
+        "API": {
+          "nota": 75.63,
+          "diferenca_absoluta_media": 32.505957446808495,
+          "gap": 0.14864711875919856
+        },
+        "REST": {
+          "nota": 47.78,
+          "diferenca_absoluta_media": 10.737234042553204,
+          "gap": 0.5504366812227074
+        },
+        "Firebase": {
+          "nota": 3.31,
+          "diferenca_absoluta_media": -5.83,
+          "gap": 0.8286458333333333
+        }
+      },
+      "softskills": [
+        "Flexibidade",
+        "Liderança de Equipe",
+        "Gestão de Conflitos",
+        "Proatividade",
+        "Criatividade"
+      ]
+    },
+    {
+      "nome_completo": "Lettie Ramos",
+      "hardskills": {
+        "API": {
+          "nota": 41.81,
+          "diferenca_absoluta_media": -1.3140425531914985,
+          "gap": 0.5315294916789314
+        },
+        "REST": {
+          "nota": 49.84,
+          "diferenca_absoluta_media": 12.797234042553207,
+          "gap": 0.5279475982532751
+        },
+        "Firebase": {
+          "nota": 7.5,
+          "diferenca_absoluta_media": -1.6400000000000006,
+          "gap": 0.6104166666666666
+        }
+      },
+      "softskills": [
+        "Motivação",
+        "Equilíbrio Emocional",
+        "Trabalhar sob pressão",
+        "Gestão de Conflitos",
+        "Criatividade"
+      ]
+    },
+    {
+      "nome_completo": "Pauline Spinelli",
+      "hardskills": {
+        "API": {
+          "nota": 56.89,
+          "diferenca_absoluta_media": 13.7659574468085,
+          "gap": 0.3608060681535153
+        },
+        "REST": {
+          "nota": 39.2,
+          "diferenca_absoluta_media": 2.157234042553206,
+          "gap": 0.6441048034934497
+        },
+        "Firebase": {
+          "nota": 4.05,
+          "diferenca_absoluta_media": -5.090000000000001,
+          "gap": 0.7901041666666666
+        }
+      },
+      "softskills": [
+        "Colaboração",
+        "Proatividade",
+        "Gestão de Tempo",
+        "Produtividade",
+        "Motivação"
+      ]
+    },
+    {
+      "nome_completo": "Danny Patrick",
+      "hardskills": {
+        "API": {
+          "nota": 29.44,
+          "diferenca_absoluta_media": -13.6840425531915,
+          "gap": 0.6715725121702707
+        },
+        "REST": {
+          "nota": 20.46,
+          "diferenca_absoluta_media": -16.582765957446796,
+          "gap": 0.8486899563318777
+        },
+        "Firebase": {
+          "nota": 4.39,
+          "diferenca_absoluta_media": -4.750000000000001,
+          "gap": 0.7723958333333333
+        }
+      },
+      "softskills": [
+        "Gestão de Conflitos",
+        "Foco",
+        "Resolução de Problemas",
+        "Equilíbrio Emocional",
+        "Colaboração"
+      ]
+    },
+    {
+      "nome_completo": "Aaron Ikeda",
+      "hardskills": {
+        "API": {
+          "nota": 48.2,
+          "diferenca_absoluta_media": 5.075957446808502,
+          "gap": 0.45918713913732595
+        },
+        "REST": {
+          "nota": 23.54,
+          "diferenca_absoluta_media": -13.502765957446798,
+          "gap": 0.815065502183406
+        },
+        "Firebase": {
+          "nota": 9.32,
+          "diferenca_absoluta_media": 0.17999999999999972,
+          "gap": 0.515625
+        }
+      },
+      "softskills": [
+        "Produtividade",
+        "Trabalhar sob pressão",
+        "Equilíbrio Emocional",
+        "Auto-Controle",
+        "Gestão de Tempo"
+      ]
+    },
+    {
+      "nome_completo": "Tommy Ferrara",
+      "hardskills": {
+        "API": {
+          "nota": 12.03,
+          "diferenca_absoluta_media": -31.0940425531915,
+          "gap": 0.8686742895958338
+        },
+        "REST": {
+          "nota": 20.85,
+          "diferenca_absoluta_media": -16.192765957446795,
+          "gap": 0.8444323144104802
+        },
+        "Firebase": {
+          "nota": 4.77,
+          "diferenca_absoluta_media": -4.370000000000001,
+          "gap": 0.7526041666666666
+        }
+      },
+      "softskills": [
+        "Equilíbrio Emocional",
+        "Criatividade",
+        "Resolução de Problemas",
+        "Produtividade",
+        "Colaboração"
+      ]
+    },
+    {
+      "nome_completo": "Alvin Gatti",
+      "hardskills": {
+        "API": {
+          "nota": 68.05,
+          "diferenca_absoluta_media": 24.925957446808496,
+          "gap": 0.23446167779916233
+        },
+        "REST": {
+          "nota": 22.6,
+          "diferenca_absoluta_media": -14.442765957446795,
+          "gap": 0.8253275109170304
+        },
+        "Firebase": {
+          "nota": 10.31,
+          "diferenca_absoluta_media": 1.17,
+          "gap": 0.46406249999999993
+        }
+      },
+      "softskills": [
+        "Equilíbrio Emocional",
+        "Resolução de Problemas",
+        "Auto-Controle",
+        "Gestão de Tempo",
+        "Comunicação Eficaz"
+      ]
+    },
+    {
+      "nome_completo": "Mable de Vries",
+      "hardskills": {
+        "API": {
+          "nota": 47.81,
+          "diferenca_absoluta_media": 4.6859574468085015,
+          "gap": 0.4636024000905695
+        },
+        "REST": {
+          "nota": 32.57,
+          "diferenca_absoluta_media": -4.472765957446796,
+          "gap": 0.7164847161572051
+        },
+        "Firebase": {
+          "nota": 6.54,
+          "diferenca_absoluta_media": -2.6000000000000005,
+          "gap": 0.6604166666666667
+        }
+      },
+      "softskills": [
+        "Negociação",
+        "Equilíbrio Emocional",
+        "Gestão de Tempo",
+        "Auto-Controle",
+        "Resolução de Problemas"
+      ]
+    },
+    {
+      "nome_completo": "Richard Baldini",
+      "hardskills": {
+        "API": {
+          "nota": 38.67,
+          "diferenca_absoluta_media": -4.454042553191499,
+          "gap": 0.5670780029435073
+        },
+        "REST": {
+          "nota": 47.67,
+          "diferenca_absoluta_media": 10.627234042553205,
+          "gap": 0.5516375545851528
+        },
+        "Firebase": {
+          "nota": 10.8,
+          "diferenca_absoluta_media": 1.6600000000000001,
+          "gap": 0.4385416666666666
+        }
+      },
+      "softskills": [
+        "Flexibidade",
+        "Negociação",
+        "Equilíbrio Emocional",
+        "Trabalhar orientado para Resultados",
+        "Produtividade"
+      ]
+    },
+    {
+      "nome_completo": "Joel Staderini",
+      "hardskills": {
+        "API": {
+          "nota": 41.79,
+          "diferenca_absoluta_media": -1.3340425531915017,
+          "gap": 0.5317559153175593
+        },
+        "REST": {
+          "nota": 43.37,
+          "diferenca_absoluta_media": 6.327234042553201,
+          "gap": 0.5985807860262009
+        },
+        "Firebase": {
+          "nota": 11.7,
+          "diferenca_absoluta_media": 2.5599999999999987,
+          "gap": 0.39166666666666666
+        }
+      },
+      "softskills": [
+        "Motivação",
+        "Disciplina",
+        "Trabalhar sob pressão",
+        "Criatividade",
+        "Negociação"
+      ]
+    },
+    {
+      "nome_completo": "Hattie Frilli",
+      "hardskills": {
+        "API": {
+          "nota": 67.03,
+          "diferenca_absoluta_media": 23.9059574468085,
+          "gap": 0.2460092833691838
+        },
+        "REST": {
+          "nota": 32.36,
+          "diferenca_absoluta_media": -4.682765957446797,
+          "gap": 0.7187772925764192
+        },
+        "Firebase": {
+          "nota": 7.91,
+          "diferenca_absoluta_media": -1.2300000000000004,
+          "gap": 0.5890624999999999
+        }
+      },
+      "softskills": [
+        "Flexibidade",
+        "Produtividade",
+        "Colaboração",
+        "Auto-Controle",
+        "Gestão de Tempo"
+      ]
+    },
+    {
+      "nome_completo": "Lettie de Vos",
+      "hardskills": {
+        "API": {
+          "nota": 85.44,
+          "diferenca_absoluta_media": 42.3159574468085,
+          "gap": 0.03758632401222696
+        },
+        "REST": {
+          "nota": 35.97,
+          "diferenca_absoluta_media": -1.0727659574467978,
+          "gap": 0.6793668122270742
+        },
+        "Firebase": {
+          "nota": 3.84,
+          "diferenca_absoluta_media": -5.300000000000001,
+          "gap": 0.8010416666666667
+        }
+      },
+      "softskills": [
+        "Disciplina",
+        "Flexibidade",
+        "Motivação",
+        "Trabalhar sob pressão",
+        "Colaboração"
+      ]
+    },
+    {
+      "nome_completo": "Eva Bonnet",
+      "hardskills": {
+        "API": {
+          "nota": 0.89,
+          "diferenca_absoluta_media": -42.2340425531915,
+          "gap": 0.994792256311559
+        },
+        "REST": {
+          "nota": 39.14,
+          "diferenca_absoluta_media": 2.097234042553204,
+          "gap": 0.6447598253275109
+        },
+        "Firebase": {
+          "nota": 18.54,
+          "diferenca_absoluta_media": 9.399999999999999,
+          "gap": 0.03541666666666665
+        }
+      },
+      "softskills": [
+        "Foco",
+        "Gestão de Conflitos",
+        "Criatividade",
+        "Colaboração",
+        "Liderança de Equipe"
+      ]
+    }
+  ],
+  "analise": {
+    "API": {
+      "total_pontos": 2026.8300000000004,
+      "menor": 0.43,
+      "maior": 88.76,
+      "media": 43.1240425531915
+    },
+    "REST": {
+      "total_pontos": 1741.0099999999993,
+      "menor": 6.6,
+      "maior": 98.2,
+      "media": 37.0427659574468
+    },
+    "Firebase": {
+      "total_pontos": 429.58000000000004,
+      "menor": 0.02,
+      "maior": 19.22,
+      "media": 9.14
+    }
+  },
+  "hardskills_atividade": {
+    "API": {
+      "peso": 20
+    },
+    "REST": {
+      "peso": 40
+    },
+    "Firebase": {
+      "peso": 40
+    }
+  }
+}

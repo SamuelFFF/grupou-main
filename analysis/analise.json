@@ -1,0 +1,163 @@
+{
+  "analise": {
+    "grupos": {
+      "grupo_1": {
+        "conhecimento_grupo": {
+          "hardskills": {
+            "HTML": {
+              "total_pontos": 245.81,
+              "percentual": 33.294504869360274
+            },
+            "CSS": {
+              "total_pontos": 314.3,
+              "percentual": 42.571347302550485
+            },
+            "Javascript": {
+              "total_pontos": 178.18,
+              "percentual": 24.13414782808923
+            }
+          },
+          "total_conhecimento_hardskills": 738.2900000000001,
+          "deficit_hardskills_absoluto": 16.705495130639726,
+          "media_softskills": 2.6666666666666665,
+          "deficit_hardskills_relativo": 14.12618440981626
+        }
+      },
+      "grupo_2": {
+        "conhecimento_grupo": {
+          "hardskills": {
+            "HTML": {
+              "total_pontos": 254.73,
+              "percentual": 31.319005581921456
+            },
+            "CSS": {
+              "total_pontos": 314.56,
+              "percentual": 38.67509282710797
+            },
+            "Javascript": {
+              "total_pontos": 244.04999999999998,
+              "percentual": 30.00590159097056
+            }
+          },
+          "total_conhecimento_hardskills": 813.3400000000001,
+          "deficit_hardskills_absoluto": 18.680994418078544,
+          "media_softskills": 2.6666666666666665,
+          "deficit_hardskills_relativo": 18.680994418078544
+        }
+      },
+      "grupo_3": {
+        "conhecimento_grupo": {
+          "hardskills": {
+            "HTML": {
+              "total_pontos": 313.30999999999995,
+              "percentual": 36.09312720318872
+            },
+            "CSS": {
+              "total_pontos": 313.68,
+              "percentual": 36.13575098495497
+            },
+            "Javascript": {
+              "total_pontos": 241.07,
+              "percentual": 27.77112181185633
+            }
+          },
+          "total_conhecimento_hardskills": 868.0599999999998,
+          "deficit_hardskills_absoluto": 13.906872796811278,
+          "media_softskills": 2.5,
+          "deficit_hardskills_relativo": 8.717792458650749
+        }
+      },
+      "grupo_4": {
+        "conhecimento_grupo": {
+          "hardskills": {
+            "HTML": {
+              "total_pontos": 404.42,
+              "percentual": 46.422627041794364
+            },
+            "CSS": {
+              "total_pontos": 312.63,
+              "percentual": 35.88622197734082
+            },
+            "Javascript": {
+              "total_pontos": 154.12,
+              "percentual": 17.691150980864812
+            }
+          },
+          "total_conhecimento_hardskills": 871.1700000000001,
+          "deficit_hardskills_absoluto": 5.886221977340824,
+          "media_softskills": 2.6666666666666665,
+          "deficit_hardskills_relativo": 0
+        }
+      },
+      "grupo_5": {
+        "conhecimento_grupo": {
+          "hardskills": {
+            "HTML": {
+              "total_pontos": 257.67,
+              "percentual": 31.73549443917579
+            },
+            "CSS": {
+              "total_pontos": 313.98,
+              "percentual": 38.67082137622701
+            },
+            "Javascript": {
+              "total_pontos": 240.28,
+              "percentual": 29.59368418459719
+            }
+          },
+          "total_conhecimento_hardskills": 811.9300000000001,
+          "deficit_hardskills_absoluto": 18.26450556082421,
+          "media_softskills": 3,
+          "deficit_hardskills_relativo": 17.66996876194196
+        }
+      },
+      "grupo_6": {
+        "conhecimento_grupo": {
+          "hardskills": {
+            "HTML": {
+              "total_pontos": 305.1,
+              "percentual": 45.75241808502661
+            },
+            "CSS": {
+              "total_pontos": 256.62,
+              "percentual": 38.4824173352328
+            },
+            "Javascript": {
+              "total_pontos": 105.13,
+              "percentual": 15.765164579740569
+            }
+          },
+          "total_conhecimento_hardskills": 666.8500000000001,
+          "deficit_hardskills_absoluto": 8.48241733523282,
+          "media_softskills": 2.6,
+          "deficit_hardskills_relativo": 1.7211726594931365
+        }
+      },
+      "grupo_7": {
+        "conhecimento_grupo": {
+          "hardskills": {
+            "HTML": {
+              "total_pontos": 304.52,
+              "percentual": 39.67997498175753
+            },
+            "CSS": {
+              "total_pontos": 265.3,
+              "percentual": 34.569477744188475
+            },
+            "Javascript": {
+              "total_pontos": 197.62,
+              "percentual": 25.750547274054
+            }
+          },
+          "total_conhecimento_hardskills": 767.4399999999999,
+          "deficit_hardskills_absoluto": 10.320025018242468,
+          "media_softskills": 2.8,
+          "deficit_hardskills_relativo": 3.5762229082228405
+        }
+      }
+    },
+    "gap_hardskill": 2.989361954829817,
+    "gap_softskill": 3.200000000000001,
+    "acuracia": 76.29574240653164
+  }
+}

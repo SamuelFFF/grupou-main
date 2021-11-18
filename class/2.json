@@ -1,0 +1,1520 @@
+{
+  "alunos": [
+    {
+      "nome_completo": "Cody Giovannini",
+      "hardskills": {
+        "Orientação Objeto": {
+          "nota": 10.6,
+          "diferenca_absoluta_media": -44.80581818181818,
+          "gap": 0.8957142857142857
+        },
+        "Herança": {
+          "nota": 45.82,
+          "diferenca_absoluta_media": 7.6774545454545375,
+          "gap": 0.09367996414164052
+        },
+        "Modelagem": {
+          "nota": 98.02,
+          "diferenca_absoluta_media": 8.879272727272692,
+          "gap": 0.09854927463731863
+        }
+      },
+      "softskills": [
+        "Liderança de Equipe",
+        "Trabalhar sob pressão",
+        "Motivação",
+        "Proatividade",
+        "Equilíbrio Emocional"
+      ]
+    },
+    {
+      "nome_completo": "Chase Mack",
+      "hardskills": {
+        "Orientação Objeto": {
+          "nota": 39.55,
+          "diferenca_absoluta_media": -15.855818181818186,
+          "gap": 0.6003061224489796
+        },
+        "Herança": {
+          "nota": 42.8,
+          "diferenca_absoluta_media": 4.657454545454534,
+          "gap": 0.16136261766024212
+        },
+        "Modelagem": {
+          "nota": 87.46,
+          "diferenca_absoluta_media": -1.6807272727273102,
+          "gap": 0.6268134067033518
+        }
+      },
+      "softskills": [
+        "Gestão de Conflitos",
+        "Comunicação Eficaz",
+        "Flexibidade",
+        "Trabalhar orientado para Resultados",
+        "Resolução de Problemas"
+      ]
+    },
+    {
+      "nome_completo": "Walter Byrd",
+      "hardskills": {
+        "Orientação Objeto": {
+          "nota": 59.91,
+          "diferenca_absoluta_media": 4.504181818181813,
+          "gap": 0.39255102040816325
+        },
+        "Herança": {
+          "nota": 12.29,
+          "diferenca_absoluta_media": -25.852545454545464,
+          "gap": 0.8451367099955178
+        },
+        "Modelagem": {
+          "nota": 82.69,
+          "diferenca_absoluta_media": -6.450727272727306,
+          "gap": 0.8654327163581792
+        }
+      },
+      "softskills": [
+        "Criatividade",
+        "Trabalhar sob pressão",
+        "Equilíbrio Emocional",
+        "Trabalhar orientado para Resultados",
+        "Proatividade"
+      ]
+    },
+    {
+      "nome_completo": "Vincent Roth",
+      "hardskills": {
+        "Orientação Objeto": {
+          "nota": 38.96,
+          "diferenca_absoluta_media": -16.445818181818183,
+          "gap": 0.6063265306122448
+        },
+        "Herança": {
+          "nota": 27.1,
+          "diferenca_absoluta_media": -11.042545454545461,
+          "gap": 0.5132227700582699
+        },
+        "Modelagem": {
+          "nota": 86.54,
+          "diferenca_absoluta_media": -2.6007272727272976,
+          "gap": 0.6728364182091041
+        }
+      },
+      "softskills": [
+        "Comunicação Eficaz",
+        "Gestão de Conflitos",
+        "Gestão de Tempo",
+        "Flexibidade",
+        "Equilíbrio Emocional"
+      ]
+    },
+    {
+      "nome_completo": "Amelia Hughes",
+      "hardskills": {
+        "Orientação Objeto": {
+          "nota": 4.2,
+          "diferenca_absoluta_media": -51.20581818181818,
+          "gap": 0.9610204081632653
+        },
+        "Herança": {
+          "nota": 17.27,
+          "diferenca_absoluta_media": -20.872545454545463,
+          "gap": 0.7335275661138504
+        },
+        "Modelagem": {
+          "nota": 80,
+          "diferenca_absoluta_media": -9.140727272727304,
+          "gap": 1
+        }
+      },
+      "softskills": [
+        "Gestão de Conflitos",
+        "Comunicação Eficaz",
+        "Proatividade",
+        "Equilíbrio Emocional",
+        "Produtividade"
+      ]
+    },
+    {
+      "nome_completo": "Harry Baroni",
+      "hardskills": {
+        "Orientação Objeto": {
+          "nota": 90.28,
+          "diferenca_absoluta_media": 34.87418181818182,
+          "gap": 0.08265306122448973
+        },
+        "Herança": {
+          "nota": 22.67,
+          "diferenca_absoluta_media": -15.472545454545461,
+          "gap": 0.6125056028686687
+        },
+        "Modelagem": {
+          "nota": 80.61,
+          "diferenca_absoluta_media": -8.530727272727304,
+          "gap": 0.9694847423711856
+        }
+      },
+      "softskills": [
+        "Equilíbrio Emocional",
+        "Produtividade",
+        "Criatividade",
+        "Motivação",
+        "Comunicação Eficaz"
+      ]
+    },
+    {
+      "nome_completo": "Lloyd Paul",
+      "hardskills": {
+        "Orientação Objeto": {
+          "nota": 55.55,
+          "diferenca_absoluta_media": 0.14418181818181353,
+          "gap": 0.4370408163265306
+        },
+        "Herança": {
+          "nota": 25.39,
+          "diferenca_absoluta_media": -12.752545454545462,
+          "gap": 0.5515463917525774
+        },
+        "Modelagem": {
+          "nota": 86.69,
+          "diferenca_absoluta_media": -2.450727272727306,
+          "gap": 0.6653326663331666
+        }
+      },
+      "softskills": [
+        "Comunicação Eficaz",
+        "Liderança de Equipe",
+        "Trabalhar sob pressão",
+        "Equilíbrio Emocional",
+        "Trabalhar orientado para Resultados"
+      ]
+    },
+    {
+      "nome_completo": "Marc Holland",
+      "hardskills": {
+        "Orientação Objeto": {
+          "nota": 57.78,
+          "diferenca_absoluta_media": 2.3741818181818175,
+          "gap": 0.4142857142857142
+        },
+        "Herança": {
+          "nota": 24.54,
+          "diferenca_absoluta_media": -13.602545454545464,
+          "gap": 0.5705961452263559
+        },
+        "Modelagem": {
+          "nota": 93.86,
+          "diferenca_absoluta_media": 4.7192727272726955,
+          "gap": 0.3066533266633315
+        }
+      },
+      "softskills": [
+        "Disciplina",
+        "Trabalhar orientado para Resultados",
+        "Produtividade",
+        "Auto-Controle",
+        "Motivação"
+      ]
+    },
+    {
+      "nome_completo": "Cecelia Phelps",
+      "hardskills": {
+        "Orientação Objeto": {
+          "nota": 41.92,
+          "diferenca_absoluta_media": -13.485818181818182,
+          "gap": 0.5761224489795918
+        },
+        "Herança": {
+          "nota": 32.61,
+          "diferenca_absoluta_media": -5.532545454545463,
+          "gap": 0.38973554459883464
+        },
+        "Modelagem": {
+          "nota": 98.45,
+          "diferenca_absoluta_media": 9.309272727272699,
+          "gap": 0.07703851925962944
+        }
+      },
+      "softskills": [
+        "Foco",
+        "Gestão de Tempo",
+        "Comunicação Eficaz",
+        "Trabalhar sob pressão",
+        "Negociação"
+      ]
+    },
+    {
+      "nome_completo": "Bess Magnani",
+      "hardskills": {
+        "Orientação Objeto": {
+          "nota": 6.65,
+          "diferenca_absoluta_media": -48.755818181818185,
+          "gap": 0.9360204081632651
+        },
+        "Herança": {
+          "nota": 23.09,
+          "diferenca_absoluta_media": -15.052545454545463,
+          "gap": 0.6030927835051547
+        },
+        "Modelagem": {
+          "nota": 82.96,
+          "diferenca_absoluta_media": -6.18072727272731,
+          "gap": 0.851925962981491
+        }
+      },
+      "softskills": [
+        "Resolução de Problemas",
+        "Proatividade",
+        "Trabalhar orientado para Resultados",
+        "Motivação",
+        "Gestão de Conflitos"
+      ]
+    },
+    {
+      "nome_completo": "Billy van Ommen",
+      "hardskills": {
+        "Orientação Objeto": {
+          "nota": 75.3,
+          "diferenca_absoluta_media": 19.894181818181814,
+          "gap": 0.23551020408163265
+        },
+        "Herança": {
+          "nota": 34.61,
+          "diferenca_absoluta_media": -3.5325454545454633,
+          "gap": 0.3449125952487674
+        },
+        "Modelagem": {
+          "nota": 93.37,
+          "diferenca_absoluta_media": 4.229272727272701,
+          "gap": 0.3311655827913953
+        }
+      },
+      "softskills": [
+        "Gestão de Conflitos",
+        "Trabalhar sob pressão",
+        "Colaboração",
+        "Flexibidade",
+        "Equilíbrio Emocional"
+      ]
+    },
+    {
+      "nome_completo": "Isabel Marsh",
+      "hardskills": {
+        "Orientação Objeto": {
+          "nota": 97.3,
+          "diferenca_absoluta_media": 41.89418181818181,
+          "gap": 0.011020408163265289
+        },
+        "Herança": {
+          "nota": 6.69,
+          "diferenca_absoluta_media": -31.45254545454546,
+          "gap": 0.9706409681757061
+        },
+        "Modelagem": {
+          "nota": 90.5,
+          "diferenca_absoluta_media": 1.359272727272696,
+          "gap": 0.474737368684342
+        }
+      },
+      "softskills": [
+        "Negociação",
+        "Gestão de Tempo",
+        "Foco",
+        "Trabalhar sob pressão",
+        "Equilíbrio Emocional"
+      ]
+    },
+    {
+      "nome_completo": "Nellie Coppini",
+      "hardskills": {
+        "Orientação Objeto": {
+          "nota": 74.69,
+          "diferenca_absoluta_media": 19.284181818181814,
+          "gap": 0.241734693877551
+        },
+        "Herança": {
+          "nota": 39.03,
+          "diferenca_absoluta_media": 0.8874545454545384,
+          "gap": 0.24585387718511878
+        },
+        "Modelagem": {
+          "nota": 92.69,
+          "diferenca_absoluta_media": 3.549272727272694,
+          "gap": 0.3651825912956478
+        }
+      },
+      "softskills": [
+        "Disciplina",
+        "Proatividade",
+        "Auto-Controle",
+        "Colaboração",
+        "Equilíbrio Emocional"
+      ]
+    },
+    {
+      "nome_completo": "Rhoda van der Meer",
+      "hardskills": {
+        "Orientação Objeto": {
+          "nota": 6.04,
+          "diferenca_absoluta_media": -49.365818181818184,
+          "gap": 0.9422448979591835
+        },
+        "Herança": {
+          "nota": 19.42,
+          "diferenca_absoluta_media": -18.72254545454546,
+          "gap": 0.685342895562528
+        },
+        "Modelagem": {
+          "nota": 89.14,
+          "diferenca_absoluta_media": -0.0007272727273033297,
+          "gap": 0.5427713856928463
+        }
+      },
+      "softskills": [
+        "Foco",
+        "Flexibidade",
+        "Produtividade",
+        "Motivação",
+        "Comunicação Eficaz"
+      ]
+    },
+    {
+      "nome_completo": "Inez Harris",
+      "hardskills": {
+        "Orientação Objeto": {
+          "nota": 30.88,
+          "diferenca_absoluta_media": -24.525818181818185,
+          "gap": 0.6887755102040817
+        },
+        "Herança": {
+          "nota": 5.38,
+          "diferenca_absoluta_media": -32.76254545454546,
+          "gap": 1
+        },
+        "Modelagem": {
+          "nota": 90.45,
+          "diferenca_absoluta_media": 1.309272727272699,
+          "gap": 0.47723861930965455
+        }
+      },
+      "softskills": [
+        "Trabalhar orientado para Resultados",
+        "Criatividade",
+        "Auto-Controle",
+        "Resolução de Problemas",
+        "Disciplina"
+      ]
+    },
+    {
+      "nome_completo": "Keith Collins",
+      "hardskills": {
+        "Orientação Objeto": {
+          "nota": 66.37,
+          "diferenca_absoluta_media": 10.964181818181821,
+          "gap": 0.3266326530612244
+        },
+        "Herança": {
+          "nota": 42.82,
+          "diferenca_absoluta_media": 4.6774545454545375,
+          "gap": 0.16091438816674136
+        },
+        "Modelagem": {
+          "nota": 84.62,
+          "diferenca_absoluta_media": -4.520727272727299,
+          "gap": 0.7688844422211103
+        }
+      },
+      "softskills": [
+        "Produtividade",
+        "Auto-Controle",
+        "Gestão de Conflitos",
+        "Colaboração",
+        "Comunicação Eficaz"
+      ]
+    },
+    {
+      "nome_completo": "Leonard Cerbai",
+      "hardskills": {
+        "Orientação Objeto": {
+          "nota": 86.3,
+          "diferenca_absoluta_media": 30.894181818181814,
+          "gap": 0.12326530612244896
+        },
+        "Herança": {
+          "nota": 45.78,
+          "diferenca_absoluta_media": 7.637454545454538,
+          "gap": 0.09457642312864184
+        },
+        "Modelagem": {
+          "nota": 85.94,
+          "diferenca_absoluta_media": -3.200727272727306,
+          "gap": 0.7028514257128564
+        }
+      },
+      "softskills": [
+        "Gestão de Conflitos",
+        "Produtividade",
+        "Colaboração",
+        "Comunicação Eficaz",
+        "Auto-Controle"
+      ]
+    },
+    {
+      "nome_completo": "Jimmy Sharp",
+      "hardskills": {
+        "Orientação Objeto": {
+          "nota": 64.97,
+          "diferenca_absoluta_media": 9.564181818181815,
+          "gap": 0.34091836734693876
+        },
+        "Herança": {
+          "nota": 15.93,
+          "diferenca_absoluta_media": -22.212545454545463,
+          "gap": 0.7635589421783954
+        },
+        "Modelagem": {
+          "nota": 81,
+          "diferenca_absoluta_media": -8.140727272727304,
+          "gap": 0.9499749874937469
+        }
+      },
+      "softskills": [
+        "Equilíbrio Emocional",
+        "Flexibidade",
+        "Liderança de Equipe",
+        "Trabalhar orientado para Resultados",
+        "Produtividade"
+      ]
+    },
+    {
+      "nome_completo": "Mittie Lin",
+      "hardskills": {
+        "Orientação Objeto": {
+          "nota": 76.97,
+          "diferenca_absoluta_media": 21.564181818181815,
+          "gap": 0.218469387755102
+        },
+        "Herança": {
+          "nota": 32.62,
+          "diferenca_absoluta_media": -5.522545454545465,
+          "gap": 0.38951142985208437
+        },
+        "Modelagem": {
+          "nota": 91.21,
+          "diferenca_absoluta_media": 2.06927272727269,
+          "gap": 0.4392196098049026
+        }
+      },
+      "softskills": [
+        "Resolução de Problemas",
+        "Foco",
+        "Liderança de Equipe",
+        "Motivação",
+        "Trabalhar sob pressão"
+      ]
+    },
+    {
+      "nome_completo": "George Harvey",
+      "hardskills": {
+        "Orientação Objeto": {
+          "nota": 65.88,
+          "diferenca_absoluta_media": 10.474181818181812,
+          "gap": 0.33163265306122447
+        },
+        "Herança": {
+          "nota": 24.53,
+          "diferenca_absoluta_media": -13.612545454545462,
+          "gap": 0.5708202599731063
+        },
+        "Modelagem": {
+          "nota": 83.8,
+          "diferenca_absoluta_media": -5.340727272727307,
+          "gap": 0.8099049524762382
+        }
+      },
+      "softskills": [
+        "Auto-Controle",
+        "Gestão de Tempo",
+        "Liderança de Equipe",
+        "Colaboração",
+        "Resolução de Problemas"
+      ]
+    },
+    {
+      "nome_completo": "Della Moreno",
+      "hardskills": {
+        "Orientação Objeto": {
+          "nota": 20.03,
+          "diferenca_absoluta_media": -35.37581818181818,
+          "gap": 0.7994897959183673
+        },
+        "Herança": {
+          "nota": 10.55,
+          "diferenca_absoluta_media": -27.592545454545462,
+          "gap": 0.8841326759300763
+        },
+        "Modelagem": {
+          "nota": 89.43,
+          "diferenca_absoluta_media": 0.2892727272727029,
+          "gap": 0.5282641320660325
+        }
+      },
+      "softskills": [
+        "Produtividade",
+        "Trabalhar sob pressão",
+        "Flexibidade",
+        "Colaboração",
+        "Gestão de Conflitos"
+      ]
+    },
+    {
+      "nome_completo": "Austin Huet",
+      "hardskills": {
+        "Orientação Objeto": {
+          "nota": 94.57,
+          "diferenca_absoluta_media": 39.16418181818181,
+          "gap": 0.038877551020408185
+        },
+        "Herança": {
+          "nota": 45.68,
+          "diferenca_absoluta_media": 7.537454545454537,
+          "gap": 0.09681757059614524
+        },
+        "Modelagem": {
+          "nota": 97.25,
+          "diferenca_absoluta_media": 8.109272727272696,
+          "gap": 0.13706853426713334
+        }
+      },
+      "softskills": [
+        "Colaboração",
+        "Trabalhar sob pressão",
+        "Trabalhar orientado para Resultados",
+        "Gestão de Conflitos",
+        "Auto-Controle"
+      ]
+    },
+    {
+      "nome_completo": "Ethel Bucciarelli",
+      "hardskills": {
+        "Orientação Objeto": {
+          "nota": 85.43,
+          "diferenca_absoluta_media": 30.024181818181823,
+          "gap": 0.13214285714285703
+        },
+        "Herança": {
+          "nota": 50,
+          "diferenca_absoluta_media": 11.857454545454537,
+          "gap": 0
+        },
+        "Modelagem": {
+          "nota": 85.2,
+          "diferenca_absoluta_media": -3.940727272727301,
+          "gap": 0.7398699349674835
+        }
+      },
+      "softskills": [
+        "Proatividade",
+        "Liderança de Equipe",
+        "Colaboração",
+        "Motivação",
+        "Gestão de Tempo"
+      ]
+    },
+    {
+      "nome_completo": "Blake Bertelli",
+      "hardskills": {
+        "Orientação Objeto": {
+          "nota": 9.76,
+          "diferenca_absoluta_media": -45.645818181818186,
+          "gap": 0.9042857142857141
+        },
+        "Herança": {
+          "nota": 46.06,
+          "diferenca_absoluta_media": 7.9174545454545395,
+          "gap": 0.0883012102196324
+        },
+        "Modelagem": {
+          "nota": 96.04,
+          "diferenca_absoluta_media": 6.899272727272702,
+          "gap": 0.19759879939969932
+        }
+      },
+      "softskills": [
+        "Negociação",
+        "Disciplina",
+        "Trabalhar orientado para Resultados",
+        "Equilíbrio Emocional",
+        "Trabalhar sob pressão"
+      ]
+    },
+    {
+      "nome_completo": "Jose Briggs",
+      "hardskills": {
+        "Orientação Objeto": {
+          "nota": 31.76,
+          "diferenca_absoluta_media": -23.645818181818182,
+          "gap": 0.6797959183673469
+        },
+        "Herança": {
+          "nota": 46.46,
+          "diferenca_absoluta_media": 8.317454545454538,
+          "gap": 0.079336620349619
+        },
+        "Modelagem": {
+          "nota": 99.76,
+          "diferenca_absoluta_media": 10.619272727272701,
+          "gap": 0.01150575287643771
+        }
+      },
+      "softskills": [
+        "Colaboração",
+        "Comunicação Eficaz",
+        "Motivação",
+        "Foco",
+        "Criatividade"
+      ]
+    },
+    {
+      "nome_completo": "Effie Brogelli",
+      "hardskills": {
+        "Orientação Objeto": {
+          "nota": 64.97,
+          "diferenca_absoluta_media": 9.564181818181815,
+          "gap": 0.34091836734693876
+        },
+        "Herança": {
+          "nota": 46.84,
+          "diferenca_absoluta_media": 8.69745454545454,
+          "gap": 0.07082025997310616
+        },
+        "Modelagem": {
+          "nota": 90.84,
+          "diferenca_absoluta_media": 1.6992727272726995,
+          "gap": 0.4577288644322158
+        }
+      },
+      "softskills": [
+        "Flexibidade",
+        "Trabalhar sob pressão",
+        "Comunicação Eficaz",
+        "Criatividade",
+        "Colaboração"
+      ]
+    },
+    {
+      "nome_completo": "Lucinda Villani",
+      "hardskills": {
+        "Orientação Objeto": {
+          "nota": 68.67,
+          "diferenca_absoluta_media": 13.264181818181818,
+          "gap": 0.30316326530612236
+        },
+        "Herança": {
+          "nota": 46.91,
+          "diferenca_absoluta_media": 8.767454545454534,
+          "gap": 0.06925145674585395
+        },
+        "Modelagem": {
+          "nota": 80.26,
+          "diferenca_absoluta_media": -8.880727272727299,
+          "gap": 0.9869934967483739
+        }
+      },
+      "softskills": [
+        "Gestão de Tempo",
+        "Criatividade",
+        "Colaboração",
+        "Disciplina",
+        "Flexibidade"
+      ]
+    },
+    {
+      "nome_completo": "Curtis Albers",
+      "hardskills": {
+        "Orientação Objeto": {
+          "nota": 41.92,
+          "diferenca_absoluta_media": -13.485818181818182,
+          "gap": 0.5761224489795918
+        },
+        "Herança": {
+          "nota": 49.14,
+          "diferenca_absoluta_media": 10.997454545454538,
+          "gap": 0.0192738682205289
+        },
+        "Modelagem": {
+          "nota": 88.96,
+          "diferenca_absoluta_media": -0.18072727272731015,
+          "gap": 0.5517758879439721
+        }
+      },
+      "softskills": [
+        "Proatividade",
+        "Criatividade",
+        "Motivação",
+        "Foco",
+        "Liderança de Equipe"
+      ]
+    },
+    {
+      "nome_completo": "Lizzie Thomas",
+      "hardskills": {
+        "Orientação Objeto": {
+          "nota": 91.12,
+          "diferenca_absoluta_media": 35.71418181818182,
+          "gap": 0.07408163265306113
+        },
+        "Herança": {
+          "nota": 41.65,
+          "diferenca_absoluta_media": 3.507454545454536,
+          "gap": 0.18713581353653075
+        },
+        "Modelagem": {
+          "nota": 92.89,
+          "diferenca_absoluta_media": 3.7492727272726967,
+          "gap": 0.355177588794397
+        }
+      },
+      "softskills": [
+        "Equilíbrio Emocional",
+        "Trabalhar sob pressão",
+        "Disciplina",
+        "Proatividade",
+        "Foco"
+      ]
+    },
+    {
+      "nome_completo": "Lettie Barlow",
+      "hardskills": {
+        "Orientação Objeto": {
+          "nota": 58.61,
+          "diferenca_absoluta_media": 3.204181818181816,
+          "gap": 0.4058163265306122
+        },
+        "Herança": {
+          "nota": 42.77,
+          "diferenca_absoluta_media": 4.62745454545454,
+          "gap": 0.162034961900493
+        },
+        "Modelagem": {
+          "nota": 93.69,
+          "diferenca_absoluta_media": 4.549272727272694,
+          "gap": 0.31515757878939465
+        }
+      },
+      "softskills": [
+        "Flexibidade",
+        "Negociação",
+        "Liderança de Equipe",
+        "Proatividade",
+        "Colaboração"
+      ]
+    },
+    {
+      "nome_completo": "Jordan Visani",
+      "hardskills": {
+        "Orientação Objeto": {
+          "nota": 67.23,
+          "diferenca_absoluta_media": 11.82418181818182,
+          "gap": 0.3178571428571428
+        },
+        "Herança": {
+          "nota": 43.36,
+          "diferenca_absoluta_media": 5.217454545454537,
+          "gap": 0.14881219184222325
+        },
+        "Modelagem": {
+          "nota": 81.32,
+          "diferenca_absoluta_media": -7.820727272727311,
+          "gap": 0.9339669834917462
+        }
+      },
+      "softskills": [
+        "Disciplina",
+        "Proatividade",
+        "Foco",
+        "Criatividade",
+        "Gestão de Tempo"
+      ]
+    },
+    {
+      "nome_completo": "Tony Singleton",
+      "hardskills": {
+        "Orientação Objeto": {
+          "nota": 70.73,
+          "diferenca_absoluta_media": 15.32418181818182,
+          "gap": 0.28214285714285703
+        },
+        "Herança": {
+          "nota": 40.11,
+          "diferenca_absoluta_media": 1.9674545454545367,
+          "gap": 0.2216494845360825
+        },
+        "Modelagem": {
+          "nota": 88.02,
+          "diferenca_absoluta_media": -1.1207272727273079,
+          "gap": 0.5987993996998501
+        }
+      },
+      "softskills": [
+        "Criatividade",
+        "Colaboração",
+        "Comunicação Eficaz",
+        "Negociação",
+        "Foco"
+      ]
+    },
+    {
+      "nome_completo": "Della Maas",
+      "hardskills": {
+        "Orientação Objeto": {
+          "nota": 98.38,
+          "diferenca_absoluta_media": 42.97418181818181,
+          "gap": 0
+        },
+        "Herança": {
+          "nota": 47.38,
+          "diferenca_absoluta_media": 9.23745454545454,
+          "gap": 0.058718063648588024
+        },
+        "Modelagem": {
+          "nota": 83.75,
+          "diferenca_absoluta_media": -5.390727272727304,
+          "gap": 0.8124062031015508
+        }
+      },
+      "softskills": [
+        "Trabalhar orientado para Resultados",
+        "Gestão de Conflitos",
+        "Proatividade",
+        "Liderança de Equipe",
+        "Motivação"
+      ]
+    },
+    {
+      "nome_completo": "Arthur Townsend",
+      "hardskills": {
+        "Orientação Objeto": {
+          "nota": 17.1,
+          "diferenca_absoluta_media": -38.30581818181818,
+          "gap": 0.8293877551020409
+        },
+        "Herança": {
+          "nota": 42.15,
+          "diferenca_absoluta_media": 4.007454545454536,
+          "gap": 0.17593007619901394
+        },
+        "Modelagem": {
+          "nota": 80.31,
+          "diferenca_absoluta_media": -8.830727272727302,
+          "gap": 0.9844922461230614
+        }
+      },
+      "softskills": [
+        "Gestão de Tempo",
+        "Flexibidade",
+        "Colaboração",
+        "Gestão de Conflitos",
+        "Trabalhar orientado para Resultados"
+      ]
+    },
+    {
+      "nome_completo": "Eunice Leroy",
+      "hardskills": {
+        "Orientação Objeto": {
+          "nota": 73.03,
+          "diferenca_absoluta_media": 17.624181818181818,
+          "gap": 0.25867346938775504
+        },
+        "Herança": {
+          "nota": 43.88,
+          "diferenca_absoluta_media": 5.73745454545454,
+          "gap": 0.1371582250112057
+        },
+        "Modelagem": {
+          "nota": 80.69,
+          "diferenca_absoluta_media": -8.450727272727306,
+          "gap": 0.9654827413706855
+        }
+      },
+      "softskills": [
+        "Motivação",
+        "Gestão de Tempo",
+        "Negociação",
+        "Proatividade",
+        "Liderança de Equipe"
+      ]
+    },
+    {
+      "nome_completo": "Lloyd Sanz",
+      "hardskills": {
+        "Orientação Objeto": {
+          "nota": 51.95,
+          "diferenca_absoluta_media": -3.455818181818181,
+          "gap": 0.47377551020408154
+        },
+        "Herança": {
+          "nota": 47.51,
+          "diferenca_absoluta_media": 9.367454545454535,
+          "gap": 0.055804571940833755
+        },
+        "Modelagem": {
+          "nota": 91.38,
+          "diferenca_absoluta_media": 2.2392727272726916,
+          "gap": 0.4307153576788395
+        }
+      },
+      "softskills": [
+        "Auto-Controle",
+        "Gestão de Conflitos",
+        "Trabalhar orientado para Resultados",
+        "Motivação",
+        "Comunicação Eficaz"
+      ]
+    },
+    {
+      "nome_completo": "Jim Fini",
+      "hardskills": {
+        "Orientação Objeto": {
+          "nota": 18.03,
+          "diferenca_absoluta_media": -37.37581818181818,
+          "gap": 0.8198979591836734
+        },
+        "Herança": {
+          "nota": 49.69,
+          "diferenca_absoluta_media": 11.547454545454535,
+          "gap": 0.006947557149260473
+        },
+        "Modelagem": {
+          "nota": 85.36,
+          "diferenca_absoluta_media": -3.7807272727273045,
+          "gap": 0.7318659329664832
+        }
+      },
+      "softskills": [
+        "Motivação",
+        "Proatividade",
+        "Equilíbrio Emocional",
+        "Trabalhar orientado para Resultados",
+        "Disciplina"
+      ]
+    },
+    {
+      "nome_completo": "Nina Becattini",
+      "hardskills": {
+        "Orientação Objeto": {
+          "nota": 96.14,
+          "diferenca_absoluta_media": 40.73418181818182,
+          "gap": 0.022857142857142805
+        },
+        "Herança": {
+          "nota": 49.49,
+          "diferenca_absoluta_media": 11.34745454545454,
+          "gap": 0.011429852084267101
+        },
+        "Modelagem": {
+          "nota": 88.42,
+          "diferenca_absoluta_media": -0.7207272727273022,
+          "gap": 0.5787893946973485
+        }
+      },
+      "softskills": [
+        "Auto-Controle",
+        "Motivação",
+        "Disciplina",
+        "Colaboração",
+        "Comunicação Eficaz"
+      ]
+    },
+    {
+      "nome_completo": "Ray Dumas",
+      "hardskills": {
+        "Orientação Objeto": {
+          "nota": 63.92,
+          "diferenca_absoluta_media": 8.514181818181818,
+          "gap": 0.35163265306122443
+        },
+        "Herança": {
+          "nota": 47.88,
+          "diferenca_absoluta_media": 9.73745454545454,
+          "gap": 0.04751232631107121
+        },
+        "Modelagem": {
+          "nota": 92.57,
+          "diferenca_absoluta_media": 3.4292727272726893,
+          "gap": 0.3711855927963984
+        }
+      },
+      "softskills": [
+        "Equilíbrio Emocional",
+        "Negociação",
+        "Resolução de Problemas",
+        "Gestão de Conflitos",
+        "Trabalhar orientado para Resultados"
+      ]
+    },
+    {
+      "nome_completo": "Gabriel Lorini",
+      "hardskills": {
+        "Orientação Objeto": {
+          "nota": 21.27,
+          "diferenca_absoluta_media": -34.13581818181818,
+          "gap": 0.7868367346938775
+        },
+        "Herança": {
+          "nota": 43.21,
+          "diferenca_absoluta_media": 5.067454545454538,
+          "gap": 0.15217391304347824
+        },
+        "Modelagem": {
+          "nota": 95.58,
+          "diferenca_absoluta_media": 6.439272727272694,
+          "gap": 0.22061030515257618
+        }
+      },
+      "softskills": [
+        "Foco",
+        "Trabalhar sob pressão",
+        "Colaboração",
+        "Gestão de Tempo",
+        "Negociação"
+      ]
+    },
+    {
+      "nome_completo": "Devin Chirici",
+      "hardskills": {
+        "Orientação Objeto": {
+          "nota": 96.7,
+          "diferenca_absoluta_media": 41.29418181818182,
+          "gap": 0.017142857142857067
+        },
+        "Herança": {
+          "nota": 41.37,
+          "diferenca_absoluta_media": 3.2274545454545347,
+          "gap": 0.19341102644554017
+        },
+        "Modelagem": {
+          "nota": 84.52,
+          "diferenca_absoluta_media": -4.620727272727308,
+          "gap": 0.773886943471736
+        }
+      },
+      "softskills": [
+        "Flexibidade",
+        "Motivação",
+        "Equilíbrio Emocional",
+        "Resolução de Problemas",
+        "Produtividade"
+      ]
+    },
+    {
+      "nome_completo": "Elijah Maestrini",
+      "hardskills": {
+        "Orientação Objeto": {
+          "nota": 76.5,
+          "diferenca_absoluta_media": 21.094181818181816,
+          "gap": 0.22326530612244894
+        },
+        "Herança": {
+          "nota": 49.93,
+          "diferenca_absoluta_media": 11.787454545454537,
+          "gap": 0.0015688032272523596
+        },
+        "Modelagem": {
+          "nota": 90.76,
+          "diferenca_absoluta_media": 1.6192727272727012,
+          "gap": 0.46173086543271596
+        }
+      },
+      "softskills": [
+        "Resolução de Problemas",
+        "Auto-Controle",
+        "Negociação",
+        "Criatividade",
+        "Colaboração"
+      ]
+    },
+    {
+      "nome_completo": "Lola Ghini",
+      "hardskills": {
+        "Orientação Objeto": {
+          "nota": 0.38,
+          "diferenca_absoluta_media": -55.02581818181818,
+          "gap": 1
+        },
+        "Herança": {
+          "nota": 47.77,
+          "diferenca_absoluta_media": 9.62745454545454,
+          "gap": 0.0499775885253249
+        },
+        "Modelagem": {
+          "nota": 92.51,
+          "diferenca_absoluta_media": 3.369272727272701,
+          "gap": 0.374187093546773
+        }
+      },
+      "softskills": [
+        "Gestão de Conflitos",
+        "Resolução de Problemas",
+        "Comunicação Eficaz",
+        "Trabalhar orientado para Resultados",
+        "Proatividade"
+      ]
+    },
+    {
+      "nome_completo": "Gavin Sarti",
+      "hardskills": {
+        "Orientação Objeto": {
+          "nota": 73.85,
+          "diferenca_absoluta_media": 18.44418181818181,
+          "gap": 0.2503061224489796
+        },
+        "Herança": {
+          "nota": 41.13,
+          "diferenca_absoluta_media": 2.98745454545454,
+          "gap": 0.19878978036754813
+        },
+        "Modelagem": {
+          "nota": 94.3,
+          "diferenca_absoluta_media": 5.159272727272693,
+          "gap": 0.28464232116058025
+        }
+      },
+      "softskills": [
+        "Resolução de Problemas",
+        "Proatividade",
+        "Criatividade",
+        "Negociação",
+        "Disciplina"
+      ]
+    },
+    {
+      "nome_completo": "Augusta Moore",
+      "hardskills": {
+        "Orientação Objeto": {
+          "nota": 7.22,
+          "diferenca_absoluta_media": -48.185818181818185,
+          "gap": 0.930204081632653
+        },
+        "Herança": {
+          "nota": 42.89,
+          "diferenca_absoluta_media": 4.747454545454538,
+          "gap": 0.15934558493948903
+        },
+        "Modelagem": {
+          "nota": 91.35,
+          "diferenca_absoluta_media": 2.2092727272726904,
+          "gap": 0.43221610805402716
+        }
+      },
+      "softskills": [
+        "Produtividade",
+        "Gestão de Conflitos",
+        "Proatividade",
+        "Trabalhar orientado para Resultados",
+        "Motivação"
+      ]
+    },
+    {
+      "nome_completo": "Leonard Leroy",
+      "hardskills": {
+        "Orientação Objeto": {
+          "nota": 50.67,
+          "diferenca_absoluta_media": -4.735818181818182,
+          "gap": 0.4868367346938775
+        },
+        "Herança": {
+          "nota": 47.86,
+          "diferenca_absoluta_media": 9.717454545454537,
+          "gap": 0.04796055580457196
+        },
+        "Modelagem": {
+          "nota": 88.43,
+          "diferenca_absoluta_media": -0.7107272727272971,
+          "gap": 0.5782891445722856
+        }
+      },
+      "softskills": [
+        "Colaboração",
+        "Trabalhar sob pressão",
+        "Foco",
+        "Trabalhar orientado para Resultados",
+        "Resolução de Problemas"
+      ]
+    },
+    {
+      "nome_completo": "Essie de Leeuw",
+      "hardskills": {
+        "Orientação Objeto": {
+          "nota": 95.67,
+          "diferenca_absoluta_media": 40.26418181818182,
+          "gap": 0.027653061224489732
+        },
+        "Herança": {
+          "nota": 46.24,
+          "diferenca_absoluta_media": 8.09745454545454,
+          "gap": 0.08426714477812636
+        },
+        "Modelagem": {
+          "nota": 96.58,
+          "diferenca_absoluta_media": 7.439272727272694,
+          "gap": 0.17058529264632302
+        }
+      },
+      "softskills": [
+        "Auto-Controle",
+        "Liderança de Equipe",
+        "Resolução de Problemas",
+        "Equilíbrio Emocional",
+        "Proatividade"
+      ]
+    },
+    {
+      "nome_completo": "Isaac Marsden",
+      "hardskills": {
+        "Orientação Objeto": {
+          "nota": 53.2,
+          "diferenca_absoluta_media": -2.205818181818181,
+          "gap": 0.4610204081632652
+        },
+        "Herança": {
+          "nota": 47.15,
+          "diferenca_absoluta_media": 9.007454545454536,
+          "gap": 0.06387270282384584
+        },
+        "Modelagem": {
+          "nota": 94.87,
+          "diferenca_absoluta_media": 5.729272727272701,
+          "gap": 0.2561280640320156
+        }
+      },
+      "softskills": [
+        "Gestão de Tempo",
+        "Trabalhar sob pressão",
+        "Auto-Controle",
+        "Colaboração",
+        "Resolução de Problemas"
+      ]
+    },
+    {
+      "nome_completo": "Austin Wallace",
+      "hardskills": {
+        "Orientação Objeto": {
+          "nota": 79.11,
+          "diferenca_absoluta_media": 23.704181818181816,
+          "gap": 0.19663265306122446
+        },
+        "Herança": {
+          "nota": 44.34,
+          "diferenca_absoluta_media": 6.197454545454541,
+          "gap": 0.12684894666069021
+        },
+        "Modelagem": {
+          "nota": 99.99,
+          "diferenca_absoluta_media": 10.849272727272691,
+          "gap": 0
+        }
+      },
+      "softskills": [
+        "Criatividade",
+        "Liderança de Equipe",
+        "Comunicação Eficaz",
+        "Disciplina",
+        "Foco"
+      ]
+    },
+    {
+      "nome_completo": "Iva Michaud",
+      "hardskills": {
+        "Orientação Objeto": {
+          "nota": 15.11,
+          "diferenca_absoluta_media": -40.295818181818184,
+          "gap": 0.8496938775510203
+        },
+        "Herança": {
+          "nota": 40.39,
+          "diferenca_absoluta_media": 2.247454545454538,
+          "gap": 0.21537427162707307
+        },
+        "Modelagem": {
+          "nota": 88.44,
+          "diferenca_absoluta_media": -0.7007272727273062,
+          "gap": 0.5777888944472236
+        }
+      },
+      "softskills": [
+        "Foco",
+        "Gestão de Tempo",
+        "Resolução de Problemas",
+        "Auto-Controle",
+        "Equilíbrio Emocional"
+      ]
+    },
+    {
+      "nome_completo": "Aaron Lemaire",
+      "hardskills": {
+        "Orientação Objeto": {
+          "nota": 54.86,
+          "diferenca_absoluta_media": -0.5458181818181842,
+          "gap": 0.44408163265306116
+        },
+        "Herança": {
+          "nota": 45.87,
+          "diferenca_absoluta_media": 7.727454545454535,
+          "gap": 0.09255939040788891
+        },
+        "Modelagem": {
+          "nota": 89.3,
+          "diferenca_absoluta_media": 0.15927272727269326,
+          "gap": 0.534767383691846
+        }
+      },
+      "softskills": [
+        "Liderança de Equipe",
+        "Gestão de Conflitos",
+        "Produtividade",
+        "Flexibidade",
+        "Negociação"
+      ]
+    },
+    {
+      "nome_completo": "Aiden Pieroni",
+      "hardskills": {
+        "Orientação Objeto": {
+          "nota": 61.46,
+          "diferenca_absoluta_media": 6.054181818181817,
+          "gap": 0.376734693877551
+        },
+        "Herança": {
+          "nota": 49.25,
+          "diferenca_absoluta_media": 11.107454545454537,
+          "gap": 0.016808606006275213
+        },
+        "Modelagem": {
+          "nota": 98.44,
+          "diferenca_absoluta_media": 9.299272727272694,
+          "gap": 0.07753876938469223
+        }
+      },
+      "softskills": [
+        "Foco",
+        "Liderança de Equipe",
+        "Criatividade",
+        "Trabalhar sob pressão",
+        "Gestão de Conflitos"
+      ]
+    },
+    {
+      "nome_completo": "May Mauro",
+      "hardskills": {
+        "Orientação Objeto": {
+          "nota": 87.53,
+          "diferenca_absoluta_media": 32.12418181818182,
+          "gap": 0.11071428571428565
+        },
+        "Herança": {
+          "nota": 41.88,
+          "diferenca_absoluta_media": 3.73745454545454,
+          "gap": 0.18198117436127292
+        },
+        "Modelagem": {
+          "nota": 80.14,
+          "diferenca_absoluta_media": -9.000727272727303,
+          "gap": 0.9929964982491245
+        }
+      },
+      "softskills": [
+        "Disciplina",
+        "Resolução de Problemas",
+        "Criatividade",
+        "Produtividade",
+        "Gestão de Tempo"
+      ]
+    },
+    {
+      "nome_completo": "Billy Tromp",
+      "hardskills": {
+        "Orientação Objeto": {
+          "nota": 34.57,
+          "diferenca_absoluta_media": -20.835818181818183,
+          "gap": 0.6511224489795918
+        },
+        "Herança": {
+          "nota": 42.79,
+          "diferenca_absoluta_media": 4.647454545454536,
+          "gap": 0.1615867324069924
+        },
+        "Modelagem": {
+          "nota": 84.38,
+          "diferenca_absoluta_media": -4.7607272727273084,
+          "gap": 0.7808904452226115
+        }
+      },
+      "softskills": [
+        "Gestão de Tempo",
+        "Liderança de Equipe",
+        "Flexibidade",
+        "Produtividade",
+        "Colaboração"
+      ]
+    },
+    {
+      "nome_completo": "Jane Nucci",
+      "hardskills": {
+        "Orientação Objeto": {
+          "nota": 65.77,
+          "diferenca_absoluta_media": 10.364181818181812,
+          "gap": 0.3327551020408163
+        },
+        "Herança": {
+          "nota": 47.87,
+          "diferenca_absoluta_media": 9.727454545454535,
+          "gap": 0.04773644105782166
+        },
+        "Modelagem": {
+          "nota": 87.01,
+          "diferenca_absoluta_media": -2.130727272727299,
+          "gap": 0.6493246623311653
+        }
+      },
+      "softskills": [
+        "Auto-Controle",
+        "Comunicação Eficaz",
+        "Foco",
+        "Disciplina",
+        "Colaboração"
+      ]
+    }
+  ],
+  "analise": {
+    "Orientação Objeto": {
+      "total_pontos": 3047.32,
+      "menor": 0.38,
+      "maior": 98.38,
+      "media": 55.405818181818184
+    },
+    "Herança": {
+      "total_pontos": 2097.8400000000006,
+      "menor": 5.38,
+      "maior": 50,
+      "media": 38.14254545454546
+    },
+    "Modelagem": {
+      "total_pontos": 4902.740000000002,
+      "menor": 80,
+      "maior": 99.99,
+      "media": 89.1407272727273
+    }
+  },
+  "hardskills_atividade": {
+    "Orientação Objeto": {
+      "peso": 40
+    },
+    "Herança": {
+      "peso": 30
+    },
+    "Modelagem": {
+      "peso": 30
+    }
+  }
+}

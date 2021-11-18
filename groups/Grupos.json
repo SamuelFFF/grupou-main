@@ -1,0 +1,1109 @@
+{
+  "grupos": {
+    "grupo_1": [
+      {
+        "nome_completo": "Lawrence Fletcher",
+        "hardskills": {
+          "HTML": {
+            "nota": 46.43,
+            "diferenca_absoluta_media": -5.70900000000001,
+            "gap": 0.5349516518936343
+          },
+          "CSS": {
+            "nota": 51.95,
+            "diferenca_absoluta_media": -0.3267500000000041,
+            "gap": 0.6111111111111109
+          },
+          "Javascript": {
+            "nota": 43.69,
+            "diferenca_absoluta_media": 9.678749999999994,
+            "gap": 0.248352410683316
+          }
+        },
+        "softskills": [
+          "Criatividade",
+          "Colaboração",
+          "Gestão de Conflitos",
+          "Auto-Controle",
+          "Resolução de Problemas"
+        ]
+      },
+      {
+        "nome_completo": "Chester George",
+        "hardskills": {
+          "HTML": {
+            "nota": 8.32,
+            "diferenca_absoluta_media": -43.81900000000001,
+            "gap": 0.9188154713940371
+          },
+          "CSS": {
+            "nota": 52.09,
+            "diferenca_absoluta_media": -0.18675000000000352,
+            "gap": 0.5823045267489709
+          },
+          "Javascript": {
+            "nota": 16.01,
+            "diferenca_absoluta_media": -18.001250000000002,
+            "gap": 0.7284079084287202
+          }
+        },
+        "softskills": [
+          "Motivação",
+          "Produtividade",
+          "Colaboração",
+          "Auto-Controle",
+          "Liderança de Equipe"
+        ]
+      },
+      {
+        "nome_completo": "Albert Fibbi",
+        "hardskills": {
+          "HTML": {
+            "nota": 33.07,
+            "diferenca_absoluta_media": -19.06900000000001,
+            "gap": 0.6695205479452054
+          },
+          "CSS": {
+            "nota": 54.05,
+            "diferenca_absoluta_media": 1.7732499999999902,
+            "gap": 0.1790123456790133
+          },
+          "Javascript": {
+            "nota": 2.66,
+            "diferenca_absoluta_media": -31.351250000000004,
+            "gap": 0.9599375650364204
+          }
+        },
+        "softskills": [
+          "Foco",
+          "Liderança de Equipe",
+          "Gestão de Conflitos",
+          "Trabalhar orientado para Resultados",
+          "Auto-Controle"
+        ]
+      },
+      {
+        "nome_completo": "Rosie Knight",
+        "hardskills": {
+          "HTML": {
+            "nota": 36.42,
+            "diferenca_absoluta_media": -15.719000000000008,
+            "gap": 0.6357775987107172
+          },
+          "CSS": {
+            "nota": 50.5,
+            "diferenca_absoluta_media": -1.776750000000007,
+            "gap": 0.9094650205761321
+          },
+          "Javascript": {
+            "nota": 27.8,
+            "diferenca_absoluta_media": -6.211250000000003,
+            "gap": 0.523933402705515
+          }
+        },
+        "softskills": [
+          "Trabalhar sob pressão",
+          "Gestão de Tempo",
+          "Produtividade",
+          "Liderança de Equipe",
+          "Proatividade"
+        ]
+      },
+      {
+        "nome_completo": "Roy Soto",
+        "hardskills": {
+          "HTML": {
+            "nota": 31.37,
+            "diferenca_absoluta_media": -20.76900000000001,
+            "gap": 0.6866438356164384
+          },
+          "CSS": {
+            "nota": 53.95,
+            "diferenca_absoluta_media": 1.673249999999996,
+            "gap": 0.19958847736625493
+          },
+          "Javascript": {
+            "nota": 52.82,
+            "diferenca_absoluta_media": 18.808749999999996,
+            "gap": 0.09001040582726323
+          }
+        },
+        "softskills": [
+          "Produtividade",
+          "Auto-Controle",
+          "Trabalhar sob pressão",
+          "Gestão de Tempo",
+          "Comunicação Eficaz"
+        ]
+      },
+      {
+        "nome_completo": "Maude Barrett",
+        "hardskills": {
+          "HTML": {
+            "nota": 90.2,
+            "diferenca_absoluta_media": 38.06099999999999,
+            "gap": 0.09407735697018536
+          },
+          "CSS": {
+            "nota": 51.76,
+            "diferenca_absoluta_media": -0.5167500000000089,
+            "gap": 0.6502057613168732
+          },
+          "Javascript": {
+            "nota": 35.2,
+            "diferenca_absoluta_media": 1.1887499999999989,
+            "gap": 0.3955948664585501
+          }
+        },
+        "softskills": [
+          "Colaboração",
+          "Gestão de Tempo",
+          "Auto-Controle",
+          "Disciplina",
+          "Equilíbrio Emocional"
+        ]
+      }
+    ],
+    "grupo_2": [
+      {
+        "nome_completo": "Angel Conti",
+        "hardskills": {
+          "HTML": {
+            "nota": 24.5,
+            "diferenca_absoluta_media": -27.63900000000001,
+            "gap": 0.7558420628525383
+          },
+          "CSS": {
+            "nota": 51.06,
+            "diferenca_absoluta_media": -1.2167500000000047,
+            "gap": 0.794238683127572
+          },
+          "Javascript": {
+            "nota": 30.1,
+            "diferenca_absoluta_media": -3.9112500000000026,
+            "gap": 0.4840443981963232
+          }
+        },
+        "softskills": [
+          "Liderança de Equipe",
+          "Negociação",
+          "Comunicação Eficaz",
+          "Auto-Controle",
+          "Trabalhar sob pressão"
+        ]
+      },
+      {
+        "nome_completo": "Wayne Guerrero",
+        "hardskills": {
+          "HTML": {
+            "nota": 60.75,
+            "diferenca_absoluta_media": 8.61099999999999,
+            "gap": 0.3907131345688961
+          },
+          "CSS": {
+            "nota": 50.19,
+            "diferenca_absoluta_media": -2.086750000000009,
+            "gap": 0.9732510288065853
+          },
+          "Javascript": {
+            "nota": 42.25,
+            "diferenca_absoluta_media": 8.238749999999996,
+            "gap": 0.2733263961151578
+          }
+        },
+        "softskills": [
+          "Gestão de Tempo",
+          "Flexibidade",
+          "Resolução de Problemas",
+          "Colaboração",
+          "Comunicação Eficaz"
+        ]
+      },
+      {
+        "nome_completo": "Sallie Holmes",
+        "hardskills": {
+          "HTML": {
+            "nota": 61.29,
+            "diferenca_absoluta_media": 9.15099999999999,
+            "gap": 0.38527397260273977
+          },
+          "CSS": {
+            "nota": 54.51,
+            "diferenca_absoluta_media": 2.233249999999991,
+            "gap": 0.08436213991769624
+          },
+          "Javascript": {
+            "nota": 43.34,
+            "diferenca_absoluta_media": 9.32875,
+            "gap": 0.2544224765868886
+          }
+        },
+        "softskills": [
+          "Gestão de Conflitos",
+          "Proatividade",
+          "Colaboração",
+          "Auto-Controle",
+          "Foco"
+        ]
+      },
+      {
+        "nome_completo": "Fanny van Beek",
+        "hardskills": {
+          "HTML": {
+            "nota": 42.59,
+            "diferenca_absoluta_media": -9.549000000000007,
+            "gap": 0.5736301369863014
+          },
+          "CSS": {
+            "nota": 53.56,
+            "diferenca_absoluta_media": 1.2832499999999953,
+            "gap": 0.27983539094650195
+          },
+          "Javascript": {
+            "nota": 41.73,
+            "diferenca_absoluta_media": 7.718749999999993,
+            "gap": 0.28234477974332295
+          }
+        },
+        "softskills": [
+          "Disciplina",
+          "Resolução de Problemas",
+          "Liderança de Equipe",
+          "Criatividade",
+          "Comunicação Eficaz"
+        ]
+      },
+      {
+        "nome_completo": "Elnora Peters",
+        "hardskills": {
+          "HTML": {
+            "nota": 65.34,
+            "diferenca_absoluta_media": 13.200999999999993,
+            "gap": 0.34448025785656733
+          },
+          "CSS": {
+            "nota": 51.13,
+            "diferenca_absoluta_media": -1.1467500000000044,
+            "gap": 0.779835390946502
+          },
+          "Javascript": {
+            "nota": 57.38,
+            "diferenca_absoluta_media": 23.36875,
+            "gap": 0.010926118626430724
+          }
+        },
+        "softskills": [
+          "Proatividade",
+          "Trabalhar orientado para Resultados",
+          "Criatividade",
+          "Flexibidade",
+          "Trabalhar sob pressão"
+        ]
+      },
+      {
+        "nome_completo": "Anthony Cianchi",
+        "hardskills": {
+          "HTML": {
+            "nota": 0.26,
+            "diferenca_absoluta_media": -51.87900000000001,
+            "gap": 1
+          },
+          "CSS": {
+            "nota": 54.11,
+            "diferenca_absoluta_media": 1.8332499999999925,
+            "gap": 0.16666666666666716
+          },
+          "Javascript": {
+            "nota": 29.25,
+            "diferenca_absoluta_media": -4.761250000000004,
+            "gap": 0.4987859868192855
+          }
+        },
+        "softskills": [
+          "Proatividade",
+          "Comunicação Eficaz",
+          "Gestão de Tempo",
+          "Produtividade",
+          "Flexibidade"
+        ]
+      }
+    ],
+    "grupo_3": [
+      {
+        "nome_completo": "Lloyd O'donnell",
+        "hardskills": {
+          "HTML": {
+            "nota": 56.39,
+            "diferenca_absoluta_media": 4.250999999999991,
+            "gap": 0.4346293311845287
+          },
+          "CSS": {
+            "nota": 53.39,
+            "diferenca_absoluta_media": 1.1132499999999936,
+            "gap": 0.3148148148148151
+          },
+          "Javascript": {
+            "nota": 47.46,
+            "diferenca_absoluta_media": 13.448749999999997,
+            "gap": 0.18296912937911894
+          }
+        },
+        "softskills": [
+          "Comunicação Eficaz",
+          "Motivação",
+          "Proatividade",
+          "Colaboração",
+          "Foco"
+        ]
+      },
+      {
+        "nome_completo": "Maria van der Molen",
+        "hardskills": {
+          "HTML": {
+            "nota": 58.06,
+            "diferenca_absoluta_media": 5.920999999999992,
+            "gap": 0.41780821917808225
+          },
+          "CSS": {
+            "nota": 52.15,
+            "diferenca_absoluta_media": -0.12675000000000836,
+            "gap": 0.5699588477366262
+          },
+          "Javascript": {
+            "nota": 30.92,
+            "diferenca_absoluta_media": -3.0912500000000023,
+            "gap": 0.4698231009365244
+          }
+        },
+        "softskills": [
+          "Equilíbrio Emocional",
+          "Gestão de Conflitos",
+          "Resolução de Problemas",
+          "Gestão de Tempo",
+          "Negociação"
+        ]
+      },
+      {
+        "nome_completo": "Max Bouman",
+        "hardskills": {
+          "HTML": {
+            "nota": 39.44,
+            "diferenca_absoluta_media": -12.699000000000012,
+            "gap": 0.60535858178888
+          },
+          "CSS": {
+            "nota": 54.78,
+            "diferenca_absoluta_media": 2.503249999999994,
+            "gap": 0.028806584362140036
+          },
+          "Javascript": {
+            "nota": 19.94,
+            "diferenca_absoluta_media": -14.071250000000003,
+            "gap": 0.6602497398543183
+          }
+        },
+        "softskills": [
+          "Criatividade",
+          "Resolução de Problemas",
+          "Gestão de Conflitos",
+          "Trabalhar orientado para Resultados",
+          "Auto-Controle"
+        ]
+      },
+      {
+        "nome_completo": "Nancy Balli",
+        "hardskills": {
+          "HTML": {
+            "nota": 62.63,
+            "diferenca_absoluta_media": 10.490999999999993,
+            "gap": 0.37177679290894444
+          },
+          "CSS": {
+            "nota": 52.1,
+            "diferenca_absoluta_media": -0.1767500000000055,
+            "gap": 0.580246913580247
+          },
+          "Javascript": {
+            "nota": 47.93,
+            "diferenca_absoluta_media": 13.918749999999996,
+            "gap": 0.1748178980228928
+          }
+        },
+        "softskills": [
+          "Trabalhar sob pressão",
+          "Trabalhar orientado para Resultados",
+          "Gestão de Tempo",
+          "Liderança de Equipe",
+          "Proatividade"
+        ]
+      },
+      {
+        "nome_completo": "Virginia Zoppi",
+        "hardskills": {
+          "HTML": {
+            "nota": 62.52,
+            "diferenca_absoluta_media": 10.380999999999993,
+            "gap": 0.3728847703464948
+          },
+          "CSS": {
+            "nota": 50.22,
+            "diferenca_absoluta_media": -2.056750000000008,
+            "gap": 0.9670781893004122
+          },
+          "Javascript": {
+            "nota": 49.15,
+            "diferenca_absoluta_media": 15.138749999999995,
+            "gap": 0.15365938258758238
+          }
+        },
+        "softskills": [
+          "Motivação",
+          "Gestão de Conflitos",
+          "Resolução de Problemas",
+          "Negociação",
+          "Liderança de Equipe"
+        ]
+      },
+      {
+        "nome_completo": "Mike Crawford",
+        "hardskills": {
+          "HTML": {
+            "nota": 34.27,
+            "diferenca_absoluta_media": -17.869000000000007,
+            "gap": 0.6574335213537471
+          },
+          "CSS": {
+            "nota": 51.04,
+            "diferenca_absoluta_media": -1.2367500000000078,
+            "gap": 0.7983539094650212
+          },
+          "Javascript": {
+            "nota": 45.67,
+            "diferenca_absoluta_media": 11.658749999999998,
+            "gap": 0.21401318071453343
+          }
+        },
+        "softskills": [
+          "Auto-Controle",
+          "Comunicação Eficaz",
+          "Trabalhar sob pressão",
+          "Foco",
+          "Trabalhar orientado para Resultados"
+        ]
+      }
+    ],
+    "grupo_4": [
+      {
+        "nome_completo": "Cody Boyle",
+        "hardskills": {
+          "HTML": {
+            "nota": 54.89,
+            "diferenca_absoluta_media": 2.7509999999999906,
+            "gap": 0.4497381144238518
+          },
+          "CSS": {
+            "nota": 53.95,
+            "diferenca_absoluta_media": 1.673249999999996,
+            "gap": 0.19958847736625493
+          },
+          "Javascript": {
+            "nota": 8.04,
+            "diferenca_absoluta_media": -25.971250000000005,
+            "gap": 0.8666319805757892
+          }
+        },
+        "softskills": [
+          "Resolução de Problemas",
+          "Equilíbrio Emocional",
+          "Gestão de Conflitos",
+          "Negociação",
+          "Disciplina"
+        ]
+      },
+      {
+        "nome_completo": "Ollie Hamilton",
+        "hardskills": {
+          "HTML": {
+            "nota": 66.93,
+            "diferenca_absoluta_media": 14.790999999999997,
+            "gap": 0.32846494762288475
+          },
+          "CSS": {
+            "nota": 53.01,
+            "diferenca_absoluta_media": 0.7332499999999911,
+            "gap": 0.39300411522633827
+          },
+          "Javascript": {
+            "nota": 17.53,
+            "diferenca_absoluta_media": -16.481250000000003,
+            "gap": 0.7020464793617759
+          }
+        },
+        "softskills": [
+          "Motivação",
+          "Criatividade",
+          "Colaboração",
+          "Flexibidade",
+          "Proatividade"
+        ]
+      },
+      {
+        "nome_completo": "Lura Holt",
+        "hardskills": {
+          "HTML": {
+            "nota": 69.65,
+            "diferenca_absoluta_media": 17.510999999999996,
+            "gap": 0.30106768734891215
+          },
+          "CSS": {
+            "nota": 53.16,
+            "diferenca_absoluta_media": 0.8832499999999897,
+            "gap": 0.3621399176954743
+          },
+          "Javascript": {
+            "nota": 53.18,
+            "diferenca_absoluta_media": 19.168749999999996,
+            "gap": 0.08376690946930279
+          }
+        },
+        "softskills": [
+          "Foco",
+          "Gestão de Tempo",
+          "Motivação",
+          "Disciplina",
+          "Auto-Controle"
+        ]
+      },
+      {
+        "nome_completo": "Betty Panerai",
+        "hardskills": {
+          "HTML": {
+            "nota": 62.83,
+            "diferenca_absoluta_media": 10.690999999999988,
+            "gap": 0.36976228847703474
+          },
+          "CSS": {
+            "nota": 50.06,
+            "diferenca_absoluta_media": -2.2167500000000047,
+            "gap": 1
+          },
+          "Javascript": {
+            "nota": 0.35,
+            "diferenca_absoluta_media": -33.66125,
+            "gap": 1
+          }
+        },
+        "softskills": [
+          "Colaboração",
+          "Trabalhar orientado para Resultados",
+          "Gestão de Tempo",
+          "Proatividade",
+          "Criatividade"
+        ]
+      },
+      {
+        "nome_completo": "Jennie Wilson",
+        "hardskills": {
+          "HTML": {
+            "nota": 58.07,
+            "diferenca_absoluta_media": 5.93099999999999,
+            "gap": 0.41770749395648676
+          },
+          "CSS": {
+            "nota": 50.58,
+            "diferenca_absoluta_media": -1.6967500000000086,
+            "gap": 0.8930041152263383
+          },
+          "Javascript": {
+            "nota": 44.5,
+            "diferenca_absoluta_media": 10.488749999999996,
+            "gap": 0.23430454387790495
+          }
+        },
+        "softskills": [
+          "Trabalhar orientado para Resultados",
+          "Gestão de Conflitos",
+          "Negociação",
+          "Comunicação Eficaz",
+          "Proatividade"
+        ]
+      },
+      {
+        "nome_completo": "Jack Cooke",
+        "hardskills": {
+          "HTML": {
+            "nota": 92.05,
+            "diferenca_absoluta_media": 39.91099999999999,
+            "gap": 0.07544319097502024
+          },
+          "CSS": {
+            "nota": 51.87,
+            "diferenca_absoluta_media": -0.4067500000000095,
+            "gap": 0.6275720164609063
+          },
+          "Javascript": {
+            "nota": 30.52,
+            "diferenca_absoluta_media": -3.4912500000000044,
+            "gap": 0.4767603191120361
+          }
+        },
+        "softskills": [
+          "Comunicação Eficaz",
+          "Liderança de Equipe",
+          "Colaboração",
+          "Motivação",
+          "Resolução de Problemas"
+        ]
+      }
+    ],
+    "grupo_5": [
+      {
+        "nome_completo": "Catherine Jarvis",
+        "hardskills": {
+          "HTML": {
+            "nota": 41.68,
+            "diferenca_absoluta_media": -10.45900000000001,
+            "gap": 0.5827961321514908
+          },
+          "CSS": {
+            "nota": 50.24,
+            "diferenca_absoluta_media": -2.036750000000005,
+            "gap": 0.962962962962963
+          },
+          "Javascript": {
+            "nota": 40.33,
+            "diferenca_absoluta_media": 6.318749999999994,
+            "gap": 0.3066250433576136
+          }
+        },
+        "softskills": [
+          "Resolução de Problemas",
+          "Trabalhar sob pressão",
+          "Colaboração",
+          "Comunicação Eficaz",
+          "Gestão de Conflitos"
+        ]
+      },
+      {
+        "nome_completo": "Sean Payne",
+        "hardskills": {
+          "HTML": {
+            "nota": 47,
+            "diferenca_absoluta_media": -5.13900000000001,
+            "gap": 0.5292103142626914
+          },
+          "CSS": {
+            "nota": 51.35,
+            "diferenca_absoluta_media": -0.9267500000000055,
+            "gap": 0.734567901234568
+          },
+          "Javascript": {
+            "nota": 52.18,
+            "diferenca_absoluta_media": 18.168749999999996,
+            "gap": 0.10110995490808183
+          }
+        },
+        "softskills": [
+          "Gestão de Tempo",
+          "Liderança de Equipe",
+          "Colaboração",
+          "Proatividade",
+          "Flexibidade"
+        ]
+      },
+      {
+        "nome_completo": "Angel Borselli",
+        "hardskills": {
+          "HTML": {
+            "nota": 74.18,
+            "diferenca_absoluta_media": 22.040999999999997,
+            "gap": 0.2554391619661563
+          },
+          "CSS": {
+            "nota": 54.3,
+            "diferenca_absoluta_media": 2.0232499999999902,
+            "gap": 0.1275720164609063
+          },
+          "Javascript": {
+            "nota": 8.43,
+            "diferenca_absoluta_media": -25.581250000000004,
+            "gap": 0.8598681928546653
+          }
+        },
+        "softskills": [
+          "Colaboração",
+          "Resolução de Problemas",
+          "Flexibidade",
+          "Trabalhar orientado para Resultados",
+          "Criatividade"
+        ]
+      },
+      {
+        "nome_completo": "Roy Secci",
+        "hardskills": {
+          "HTML": {
+            "nota": 21.83,
+            "diferenca_absoluta_media": -30.30900000000001,
+            "gap": 0.7827356970185335
+          },
+          "CSS": {
+            "nota": 54.92,
+            "diferenca_absoluta_media": 2.6432499999999948,
+            "gap": 0
+          },
+          "Javascript": {
+            "nota": 55.67,
+            "diferenca_absoluta_media": 21.658749999999998,
+            "gap": 0.04058272632674292
+          }
+        },
+        "softskills": [
+          "Equilíbrio Emocional",
+          "Auto-Controle",
+          "Liderança de Equipe",
+          "Disciplina",
+          "Motivação"
+        ]
+      },
+      {
+        "nome_completo": "Laura Grant",
+        "hardskills": {
+          "HTML": {
+            "nota": 44.9,
+            "diferenca_absoluta_media": -7.239000000000011,
+            "gap": 0.5503626107977438
+          },
+          "CSS": {
+            "nota": 52,
+            "diferenca_absoluta_media": -0.27675000000000693,
+            "gap": 0.6008230452674901
+          },
+          "Javascript": {
+            "nota": 28.23,
+            "diferenca_absoluta_media": -5.7812500000000036,
+            "gap": 0.5164758931668401
+          }
+        },
+        "softskills": [
+          "Motivação",
+          "Colaboração",
+          "Produtividade",
+          "Flexibidade",
+          "Foco"
+        ]
+      },
+      {
+        "nome_completo": "Minerva Kennedy",
+        "hardskills": {
+          "HTML": {
+            "nota": 28.08,
+            "diferenca_absoluta_media": -24.05900000000001,
+            "gap": 0.7197824335213538
+          },
+          "CSS": {
+            "nota": 51.17,
+            "diferenca_absoluta_media": -1.1067500000000052,
+            "gap": 0.771604938271605
+          },
+          "Javascript": {
+            "nota": 55.44,
+            "diferenca_absoluta_media": 21.428749999999994,
+            "gap": 0.04457162677766217
+          }
+        },
+        "softskills": [
+          "Liderança de Equipe",
+          "Negociação",
+          "Criatividade",
+          "Flexibidade",
+          "Proatividade"
+        ]
+      }
+    ],
+    "grupo_6": [
+      {
+        "nome_completo": "May Lynch",
+        "hardskills": {
+          "HTML": {
+            "nota": 34.18,
+            "diferenca_absoluta_media": -17.95900000000001,
+            "gap": 0.6583400483481064
+          },
+          "CSS": {
+            "nota": 50.21,
+            "diferenca_absoluta_media": -2.066750000000006,
+            "gap": 0.9691358024691361
+          },
+          "Javascript": {
+            "nota": 38.03,
+            "diferenca_absoluta_media": 4.018749999999997,
+            "gap": 0.3465140478668054
+          }
+        },
+        "softskills": [
+          "Colaboração",
+          "Resolução de Problemas",
+          "Foco",
+          "Trabalhar sob pressão",
+          "Trabalhar orientado para Resultados"
+        ]
+      },
+      {
+        "nome_completo": "Virgie Papini",
+        "hardskills": {
+          "HTML": {
+            "nota": 42.79,
+            "diferenca_absoluta_media": -9.34900000000001,
+            "gap": 0.5716156325543917
+          },
+          "CSS": {
+            "nota": 51.18,
+            "diferenca_absoluta_media": -1.0967500000000072,
+            "gap": 0.7695473251028812
+          },
+          "Javascript": {
+            "nota": 50.18,
+            "diferenca_absoluta_media": 16.168749999999996,
+            "gap": 0.13579604578563995
+          }
+        },
+        "softskills": [
+          "Colaboração",
+          "Auto-Controle",
+          "Comunicação Eficaz",
+          "Foco",
+          "Criatividade"
+        ]
+      },
+      {
+        "nome_completo": "Amy Bulli",
+        "hardskills": {
+          "HTML": {
+            "nota": 29.68,
+            "diferenca_absoluta_media": -22.45900000000001,
+            "gap": 0.7036663980660759
+          },
+          "CSS": {
+            "nota": 50.94,
+            "diferenca_absoluta_media": -1.3367500000000092,
+            "gap": 0.8189300411522643
+          },
+          "Javascript": {
+            "nota": 4.85,
+            "diferenca_absoluta_media": -29.161250000000003,
+            "gap": 0.9219562955254943
+          }
+        },
+        "softskills": [
+          "Gestão de Conflitos",
+          "Trabalhar orientado para Resultados",
+          "Auto-Controle",
+          "Criatividade",
+          "Gestão de Tempo"
+        ]
+      },
+      {
+        "nome_completo": "Leona Fantechi",
+        "hardskills": {
+          "HTML": {
+            "nota": 98.91,
+            "diferenca_absoluta_media": 46.77099999999999,
+            "gap": 0.0063456889605158105
+          },
+          "CSS": {
+            "nota": 52.98,
+            "diferenca_absoluta_media": 0.7032499999999899,
+            "gap": 0.3991769547325113
+          },
+          "Javascript": {
+            "nota": 9.13,
+            "diferenca_absoluta_media": -24.88125,
+            "gap": 0.84772806104752
+          }
+        },
+        "softskills": [
+          "Trabalhar orientado para Resultados",
+          "Auto-Controle",
+          "Foco",
+          "Criatividade",
+          "Liderança de Equipe"
+        ]
+      },
+      {
+        "nome_completo": "Rhoda Farmer",
+        "hardskills": {
+          "HTML": {
+            "nota": 99.54,
+            "diferenca_absoluta_media": 47.400999999999996,
+            "gap": 0
+          },
+          "CSS": {
+            "nota": 51.31,
+            "diferenca_absoluta_media": -0.9667500000000047,
+            "gap": 0.742798353909465
+          },
+          "Javascript": {
+            "nota": 2.94,
+            "diferenca_absoluta_media": -31.071250000000003,
+            "gap": 0.9550815123135623
+          }
+        },
+        "softskills": [
+          "Motivação",
+          "Trabalhar sob pressão",
+          "Disciplina",
+          "Auto-Controle",
+          "Comunicação Eficaz"
+        ]
+      }
+    ],
+    "grupo_7": [
+      {
+        "nome_completo": "Winifred Burchi",
+        "hardskills": {
+          "HTML": {
+            "nota": 74.46,
+            "diferenca_absoluta_media": 22.320999999999984,
+            "gap": 0.2526188557614828
+          },
+          "CSS": {
+            "nota": 54.2,
+            "diferenca_absoluta_media": 1.923249999999996,
+            "gap": 0.14814814814814792
+          },
+          "Javascript": {
+            "nota": 58.01,
+            "diferenca_absoluta_media": 23.998749999999994,
+            "gap": 0
+          }
+        },
+        "softskills": [
+          "Motivação",
+          "Liderança de Equipe",
+          "Trabalhar sob pressão",
+          "Flexibidade",
+          "Gestão de Tempo"
+        ]
+      },
+      {
+        "nome_completo": "Gordon Walsh",
+        "hardskills": {
+          "HTML": {
+            "nota": 56.64,
+            "diferenca_absoluta_media": 4.500999999999991,
+            "gap": 0.4321112006446415
+          },
+          "CSS": {
+            "nota": 54,
+            "diferenca_absoluta_media": 1.723249999999993,
+            "gap": 0.1893004115226341
+          },
+          "Javascript": {
+            "nota": 56.81,
+            "diferenca_absoluta_media": 22.79875,
+            "gap": 0.020811654526534787
+          }
+        },
+        "softskills": [
+          "Flexibidade",
+          "Trabalhar sob pressão",
+          "Gestão de Conflitos",
+          "Disciplina",
+          "Comunicação Eficaz"
+        ]
+      },
+      {
+        "nome_completo": "Douglas Ferrini",
+        "hardskills": {
+          "HTML": {
+            "nota": 62.73,
+            "diferenca_absoluta_media": 10.590999999999987,
+            "gap": 0.3707695406929896
+          },
+          "CSS": {
+            "nota": 50.72,
+            "diferenca_absoluta_media": -1.556750000000008,
+            "gap": 0.8641975308641983
+          },
+          "Javascript": {
+            "nota": 15.89,
+            "diferenca_absoluta_media": -18.121250000000003,
+            "gap": 0.7304890738813735
+          }
+        },
+        "softskills": [
+          "Gestão de Tempo",
+          "Criatividade",
+          "Comunicação Eficaz",
+          "Colaboração",
+          "Negociação"
+        ]
+      },
+      {
+        "nome_completo": "Emily Boone",
+        "hardskills": {
+          "HTML": {
+            "nota": 44.03,
+            "diferenca_absoluta_media": -8.109000000000009,
+            "gap": 0.5591257050765512
+          },
+          "CSS": {
+            "nota": 54.26,
+            "diferenca_absoluta_media": 1.983249999999991,
+            "gap": 0.13580246913580324
+          },
+          "Javascript": {
+            "nota": 9.05,
+            "diferenca_absoluta_media": -24.961250000000003,
+            "gap": 0.8491155046826222
+          }
+        },
+        "softskills": [
+          "Motivação",
+          "Proatividade",
+          "Foco",
+          "Resolução de Problemas",
+          "Flexibidade"
+        ]
+      },
+      {
+        "nome_completo": "Mary Willis",
+        "hardskills": {
+          "HTML": {
+            "nota": 66.66,
+            "diferenca_absoluta_media": 14.520999999999987,
+            "gap": 0.33118452860596304
+          },
+          "CSS": {
+            "nota": 52.12,
+            "diferenca_absoluta_media": -0.1567500000000095,
+            "gap": 0.5761316872427993
+          },
+          "Javascript": {
+            "nota": 57.86,
+            "diferenca_absoluta_media": 23.848749999999995,
+            "gap": 0.0026014568158168327
+          }
+        },
+        "softskills": [
+          "Trabalhar sob pressão",
+          "Liderança de Equipe",
+          "Gestão de Tempo",
+          "Colaboração",
+          "Motivação"
+        ]
+      }
+    ]
+  },
+  "hardskills_atividade": {
+    "HTML": {
+      "peso": 50
+    },
+    "CSS": {
+      "peso": 30
+    },
+    "Javascript": {
+      "peso": 20
+    }
+  }
+}
