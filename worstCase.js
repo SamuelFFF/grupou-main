@@ -6,35 +6,33 @@ function getRandomInt(min, max) {
 }
 
 let rawdata = fs.readFileSync(argv.i);
-let turma = JSON.parse(rawdata);
+let Classe = JSON.parse(rawdata);
 
-let total_alunos = turma.alunos.length;
-let quantidade_grupos = total_alunos / argv.q;
+let TotalAlunos = Classe.alunos.length;
+let QuantidadeGrupos = TotalAlunos / argv.q;
 
 grupos = {}
 
-for (let i = 0; i < quantidade_grupos; i++) {
+for (let i = 0; i < QuantidadeGrupos; i++) {
   grupos[`grupo_${i + 1}`] = []
 }
+
 let grupo_corrente = 1;
-while (turma.alunos.length > 0) {
-  // console.log(grupo_corrente, quantidade_grupos)
-  if (grupo_corrente > Math.ceil(quantidade_grupos)) grupo_corrente = 1;
-  // console.log('grupo_corrente', grupo_corrente)
-  let posicao = getRandomInt(1, turma.alunos.length) - 1
-  let aluno = turma.alunos[posicao]
+while (Classe.alunos.length > 0) {
+  if (grupo_corrente > Math.ceil(QuantidadeGrupos)) grupo_corrente = 1;
+  let posicao = getRandomInt(1, Classe.alunos.length) - 1
+  let aluno = Classe.alunos[posicao]
 
   grupos[`grupo_${grupo_corrente}`].push(aluno)
-  turma.alunos.splice(posicao, 1);
+  Classe.alunos.splice(posicao, 1);
   grupo_corrente += 1;
-
 }
 
 let filename = argv.i.split("/")[1].split(".json")[0]
 
 fs.writeFile(`${argv.o}/${filename}_${argv.s}.json`, JSON.stringify({
   grupos,
-  hardskills_atividade: turma.hardskills_atividade
+  hardskills_atividade: Classe.hardskills_atividade
 
 }, null, 2), function (err) {
   if (err) throw err;
