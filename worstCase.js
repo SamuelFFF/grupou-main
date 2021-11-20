@@ -11,10 +11,10 @@ let Classe = JSON.parse(rawdata);
 let TotalAlunos = Classe.alunos.length;
 let QuantidadeGrupos = TotalAlunos / argv.q;
 
-grupos = {}
+Group = {}
 
 for (let i = 0; i < QuantidadeGrupos; i++) {
-  grupos[`grupo_${i + 1}`] = []
+  Group[`grupo_${i + 1}`] = []
 }
 
 let grupo_corrente = 1;
@@ -23,7 +23,7 @@ while (Classe.alunos.length > 0) {
   let posicao = getRandomInt(1, Classe.alunos.length) - 1
   let aluno = Classe.alunos[posicao]
 
-  grupos[`grupo_${grupo_corrente}`].push(aluno)
+  Group[`grupo_${grupo_corrente}`].push(aluno)
   Classe.alunos.splice(posicao, 1);
   grupo_corrente += 1;
 }
@@ -31,7 +31,7 @@ while (Classe.alunos.length > 0) {
 let filename = argv.i.split("/")[1].split(".json")[0]
 
 fs.writeFile(`${argv.o}/${filename}_${argv.s}.json`, JSON.stringify({
-  grupos,
+  Group,
   hardskills_atividade: Classe.hardskills_atividade
 
 }, null, 2), function (err) {
