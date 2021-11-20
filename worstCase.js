@@ -1,7 +1,4 @@
-//node random.js -i turmas/123.json -o grupos -q 6 -s 1
-
 var argv = require('yargs/yargs')(process.argv.slice(2)).argv;
-console.log(argv)
 const fs = require('fs');
 
 function getRandomInt(min, max) {
@@ -13,7 +10,6 @@ let turma = JSON.parse(rawdata);
 
 let total_alunos = turma.alunos.length;
 let quantidade_grupos = total_alunos / argv.q;
-// console.log(total_alunos / argv.q)
 
 grupos = {}
 
@@ -29,18 +25,10 @@ while (turma.alunos.length > 0) {
   let aluno = turma.alunos[posicao]
 
   grupos[`grupo_${grupo_corrente}`].push(aluno)
-
-  // console.log(aluno)
   turma.alunos.splice(posicao, 1);
   grupo_corrente += 1;
 
 }
-
-// for (let a in turma.alunos) {
-//   let aluno = turma.alunos[a]
-//   // console.log(a, aluno)
-// }
-
 
 let filename = argv.i.split("/")[1].split(".json")[0]
 
