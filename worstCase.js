@@ -38,7 +38,6 @@ fs.writeFile(`${argv.o}/${filename}_${argv.s}.json`, JSON.stringify({
 
 }, null, 2), function (err) {
   if (err) throw err;
-  console.log('complete');
 }
 );
 
